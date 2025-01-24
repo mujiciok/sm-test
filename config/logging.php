@@ -73,6 +73,13 @@ return [
             'replace_placeholders' => true,
         ],
 
+        'dfs' => [
+            'driver' => 'single',
+            'path' => storage_path('logs/data_for_seo.log'),
+            'level' => env('LOG_LEVEL', 'debug'),
+            'replace_placeholders' => true,
+        ],
+
         'slack' => [
             'driver' => 'slack',
             'url' => env('LOG_SLACK_WEBHOOK_URL'),
