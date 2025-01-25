@@ -11,13 +11,15 @@ use App\Services\DataForSeoApi\Rules\TargetValidator;
 
 class GoogleSerpLive extends DataForSeoApiEndpoint
 {
-    private const DEFAULT_TARGET = 'seomonitor.com';
+    /**
+     * @TODO added wildcards * to get more data on SERP (without it, some keywords have no items in result)
+     */
+    private const DEFAULT_TARGET = '*seomonitor.com*';
 
     protected string $url = '/v3/serp/google/organic/live/regular';
     protected string $responsePath = 'tasks.*.result.*';
     protected array $validators = [
         KeywordsValidator::class,
-        TargetValidator::class,
         /**
          * @TODO location related validators
          * required field if you don’t specify location_name or location_coordinate
@@ -44,7 +46,7 @@ class GoogleSerpLive extends DataForSeoApiEndpoint
                 'location_code' => CountryCodeEnum::ROMANIA->value,
                 'language_code' => LanguageCodeEnum::EN->value,
                 'keyword' => $keyword,
-                'target' => $this->data['target'] ?? self::DEFAULT_TARGET,
+                'target' => self::DEFAULT_TARGET,
             ]];
             $data[] = $this->getRequestData($postData);
         }

@@ -6,7 +6,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=topic%20seomonitor&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:56:13 +00:00",
+        "datetime": "2025-01-25 15:53:21 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -15,9 +15,19 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 7440,
-        "items_count": 1,
+        "se_results_count": 7330,
+        "items_count": 18,
         "items": [
+            {
+                "type": "organic",
+                "rank_group": 1,
+                "rank_absolute": 1,
+                "domain": "app.seomonitor.com",
+                "title": "SEOmonitor: Login",
+                "description": "Log in to your account.",
+                "url": "https:\/\/app.seomonitor.com\/",
+                "breadcrumb": "https:\/\/app.seomonitor.com"
+            },
             {
                 "type": "organic",
                 "rank_group": 2,
@@ -26,6 +36,166 @@
                 "title": "SEOmonitor: Everything your SEO team needs. All in one place.",
                 "description": "Create winning SEO strategies with enhanced keyword research, accurate forecasting, and content marketing automation. Loved by agencies, trusted by brands.",
                 "url": "https:\/\/www.seomonitor.com\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 5,
+                "rank_absolute": 5,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Powerful Tools for Agency Success",
+                "description": "Explore SEOmonitor's full suite of features designed to empower SEO agencies. Streamline processes, win clients, and achieve better results.",
+                "url": "https:\/\/www.seomonitor.com\/all-features\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 6,
+                "rank_absolute": 6,
+                "domain": "help.seomonitor.com",
+                "title": "How to improve your content and topical structure using ...",
+                "description": "Discover new keyword opportunities, and peek into your competitor's standings and strategy to improve your content, and hence your rankings.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/7950110-how-to-improve-your-content-and-topical-structure-using-keyword-explorer",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 8,
+                "rank_absolute": 9,
+                "domain": "www.seomonitor.com",
+                "title": "The AI SEO writer that outperforms them all.",
+                "description": "Get more visibility with SERP-based topical aggregation, rank faster with smart keyword placements, auto-linking, and topic suggestions.",
+                "url": "https:\/\/www.seomonitor.com\/content-writer\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 9,
+                "rank_absolute": 10,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Keyword Research: AI-Driven Research Tool",
+                "description": "Unlock relevant keywords with SEOmonitor's Magic Keywords. AI-powered, no manual work\u2014boost client visibility effortlessly with curated keyword suggestions.",
+                "url": "https:\/\/www.seomonitor.com\/seo-research\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 10,
+                "rank_absolute": 11,
+                "domain": "help.seomonitor.com",
+                "title": "Explore new keyword ideas for topics and websites",
+                "description": "The Keyword Explorer helps you identify related high-quality keywords for any topic, and ranking keywords for an entire website or for a single landing page.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6877647-keyword-explorer-explore-new-keyword-ideas-for-topics-and-websites",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 11,
+                "rank_absolute": 12,
+                "domain": "help.seomonitor.com",
+                "title": "Topical Authority | SEOmonitor Help Center",
+                "description": "when it ranks well for more keywords within a certain topic. \u200b. The more monthly impressions (scrolling to see the result and not just the SERP loading) it gets\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6216406-topical-authority",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 12,
+                "rank_absolute": 13,
+                "domain": "help.seomonitor.com",
+                "title": "SEOmonitor Academy Videos",
+                "description": "SEO Research. Learn how SEOmonitor's Research tools help you discover relevant keywords for a topic or website to expand your keyword strategy.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/8347767-seomonitor-academy-videos",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 13,
+                "rank_absolute": 14,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Unique Content Marketing Automation for SEO",
+                "description": "SEOmonitor groups keywords with similar search results over a database over 100M+ to find the highest traffic-generating keywords that work well together for\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/automation\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 17,
+                "rank_absolute": 18,
+                "domain": "help.seomonitor.com",
+                "title": "Research",
+                "description": "Our curated keyword databases in Research \u00b7 Unlimited monthly tracked keywords at no extra cost \u00b7 Keyword Explorer \u2013 Explore new keyword ideas for topics and\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/collections\/3674586-research",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 22,
+                "rank_absolute": 23,
+                "domain": "www.seomonitor.com",
+                "title": "Keyword Gap Analysis \u2013 Unlocking SEO Opportunities",
+                "description": "Content gap analysis looks at broader topics and subject areas. Both analyses work together to provide a comprehensive view of your SEO\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/keyword-gap-analysis-unlocking-seo-opportunities\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 32,
+                "rank_absolute": 33,
+                "domain": "help.seomonitor.com",
+                "title": "The SEOmonitor Campaign lifecycle",
+                "description": "In this article, you can learn about SEOmonitor's campaign lifecycle ... topics. The keyword data you get is always the latest \u2013 fresh from the last\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/8075213-the-seomonitor-campaign-lifecycle",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 42,
+                "rank_absolute": 43,
+                "domain": "help.seomonitor.com",
+                "title": "SEOmonitor Help Center",
+                "description": "Advice and answers from the SEOmonitor Team. Rank Tracker. The product documentation for our latest version of the Rank Tracker. 43 articles. Forecast.",
+                "url": "https:\/\/help.seomonitor.com\/en\/",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 55,
+                "rank_absolute": 56,
+                "domain": "www.seomonitor.com",
+                "title": "Case Study: Achieving Competitive Rankings in Under 24 ...",
+                "description": "Using SEOmonitor's Automatic Keyword Research, we were suggested to write about the \u201cGoogle Analytics No Provided\u201d topic. The feature quickly\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/case-studies\/case-study-achieving-competitive-rankings-in-under-24-hours-with-seomonitors-content-writer\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 72,
+                "rank_absolute": 73,
+                "domain": "www.seomonitor.com",
+                "title": "Content marketing and SEO: Strategies for effective ...",
+                "description": "Conduct thorough keyword research to identify topics and phrases your target audience is searching for. Utilize tools like SEOmonitor's ...",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/content-marketing-and-seo-strategies-for-effective-integration\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 85,
+                "rank_absolute": 86,
+                "domain": "help.seomonitor.com",
+                "title": "Content Writer",
+                "description": "It identifies the top keywords for a topic (based on the top 10 pages) and assesses, in real-time, whether they are optimally used in the article.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/9637936-content-writer",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 95,
+                "rank_absolute": 96,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor Pricing: Flexible Plans for SEO Agency Success",
+                "description": "Traffic forecasts based on ranking goals. \u2713 Keyword Research. Keyword, Domain & Topic Explorer. \u2713 Organic Traffic. On-demand mapping of conversions &\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/pricing-old\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
             }
         ]
@@ -37,7 +207,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20keyword%20monitor&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:56:19 +00:00",
+        "datetime": "2025-01-25 15:53:32 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -46,28 +216,28 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+keyword+monitor+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgjObYgvjOrLRzvnRohbcsxXsTFKzydB_o_8T-t4K7zrkzHgk88gbpIBtb2816HdM3lp9AIU3GbxmpuEyvdM9okP_EdKRCkkpTEh701khhCHGwWAyLoEV5asZQHp8moCK7hMLyrU&sa=X&ved=2ahUKEwifmYyK25CLAxVe8rsIHW8TK6AQxKsJegQIBRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+keyword+monitor+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgjObYgvjOrLRzvnRohbcsxXsTFKzydB_o_8T-t4K7zrkzHgk88gbpIBtb2816HdM3lp9AIU3GbxmpuEyvdM9okP_EdKRCkkpTEh701khhCHGwWAyLoEV5asZQHp8moCK7hMLyrU&sa=X&ved=2ahUKEwjC17vCnZGLAxUpl-4BHSCbNUAQxKsJegQIEhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Software",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+keyword+monitor+software&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZ8D0dh8JHF9BEVNctQ3UEo3gDwj0L5HAV1mPW1Mzk0TeYuNRxOFA1HU8Wdt0wAfj9PpVokqCdEaL8rqeT1ZOvR-5fkBXSrgQC-f3tIt87X__9rhuCPXfa-uCIovb7Gia2YitnHCzB1n3m6E9Fk85d9XXREAD&sa=X&ved=2ahUKEwifmYyK25CLAxVe8rsIHW8TK6AQxKsJegQIBBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+keyword+monitor+software&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZ8D0dh8JHF9BEVNctQ3UEo3gDwj0L5HAV1mPW1Mzk0TeYuNRxOFA1HU8Wdt0wAfj9PpVokqCdEaL8rqeT1ZOvR-5fkBXSrgQC-f3tIt87X__9rhuCPXfa-uCIovb7Gia2YitnHCzB1n3m6E9Fk85d9XXREAD&sa=X&ved=2ahUKEwjC17vCnZGLAxUpl-4BHSCbNUAQxKsJegQIDxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Best",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Best+seo+keyword+monitor&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze8REUmWkk01iiosLyOkltJwtk38JqjU25Okw0BpDiBjbxpQ_tQHVntJ_yit9ZBngFu_8Z6xKOgpK5AZi35anzS7yHOphXdsleufUbk1I_37gq3dk5LLZEDLInhqsJ3MpiHbIPSg&sa=X&ved=2ahUKEwifmYyK25CLAxVe8rsIHW8TK6AQxKsJegQIAxAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Best+seo+keyword+monitor&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze8REUmWkk01iiosLyOkltJwtk38JqjU25Okw0BpDiBjbxpQ_tQHVntJ_yit9ZBngFu_8Z6xKOgpK5AZi35anzS7yHOphXdsleufUbk1I_37gq3dk5LLZEDLInhqsJ3MpiHbIPSg&sa=X&ved=2ahUKEwjC17vCnZGLAxUpl-4BHSCbNUAQxKsJegQIDhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "SEOmonitor pricing",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEOmonitor+pricing&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZ8D0dh8JHF9BEVNctQ3UEo0I22CCi14z-zYWM33fQOU370MgPeSIEqJ_yAj-Fkkwu3jReEtrEmcoEcvJ18P0P9jXI_N6T_6m_IcexQcREsM7LplNuAjhUDiKEUuYr2XagslNtlFf20CL930Nk9VyPp4HV9Vq&sa=X&ved=2ahUKEwifmYyK25CLAxVe8rsIHW8TK6AQxKsJegQIAhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEOmonitor+pricing&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZ8D0dh8JHF9BEVNctQ3UEo0I22CCi14z-zYWM33fQOU370MgPeSIEqJ_yAj-Fkkwu3jReEtrEmcoEcvJ18P0P9jXI_N6T_6m_IcexQcREsM7LplNuAjhUDiKEUuYr2XagslNtlFf20CL930Nk9VyPp4HV9Vq&sa=X&ved=2ahUKEwjC17vCnZGLAxUpl-4BHSCbNUAQxKsJegQIGxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -81,8 +251,8 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 23700000,
-        "items_count": 1,
+        "se_results_count": 23600000,
+        "items_count": 2,
         "items": [
             {
                 "type": "organic",
@@ -93,6 +263,16 @@
                 "description": "Create winning SEO strategies with enhanced keyword research, accurate forecasting, and content marketing automation. Loved by agencies, trusted by brands.",
                 "url": "https:\/\/www.seomonitor.com\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 3,
+                "rank_absolute": 4,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Keyword Research: AI-Driven Research Tool",
+                "description": "Unlock relevant keywords with SEOmonitor's Magic Keywords. AI-powered, no manual work\u2014boost client visibility effortlessly with curated keyword suggestions.",
+                "url": "https:\/\/www.seomonitor.com\/seo-research\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a seo-research"
             }
         ]
     },
@@ -103,7 +283,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20monitor%20login&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:56:31 +00:00",
+        "datetime": "2025-01-25 15:53:44 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -111,9 +291,19 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 53900000,
-        "items_count": 1,
+        "se_results_count": 52600000,
+        "items_count": 11,
         "items": [
+            {
+                "type": "organic",
+                "rank_group": 1,
+                "rank_absolute": 1,
+                "domain": "app.seomonitor.com",
+                "title": "SEOmonitor: Login",
+                "description": "Log in to your account.",
+                "url": "https:\/\/app.seomonitor.com\/",
+                "breadcrumb": "https:\/\/app.seomonitor.com"
+            },
             {
                 "type": "organic",
                 "rank_group": 2,
@@ -123,6 +313,96 @@
                 "description": "Log-in \u00b7 Free Trial. NEW. Scale Your SEO Research, Planning, and Content Production by 10x with AI. Learn More. Everything your SEO team needs. All in one place\u00a0...",
                 "url": "https:\/\/www.seomonitor.com\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 4,
+                "rank_absolute": 4,
+                "domain": "market.seomonitor.com",
+                "title": "Log in!",
+                "description": "Please sign in. Email Password. Remember me. Sign in.",
+                "url": "https:\/\/market.seomonitor.com\/",
+                "breadcrumb": "https:\/\/market.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 5,
+                "rank_absolute": 5,
+                "domain": "mgmt.seomonitor.com",
+                "title": "SEOmonitor Management",
+                "description": "Login. E-Mail Address. Password. Remember Me. Login Forgot Your Password?",
+                "url": "https:\/\/mgmt.seomonitor.com\/login",
+                "breadcrumb": "https:\/\/mgmt.seomonitor.com \u203a login"
+            },
+            {
+                "type": "organic",
+                "rank_group": 6,
+                "rank_absolute": 6,
+                "domain": "compass.seomonitor.com",
+                "title": "Compass | It keeps us on track every time we might steer away ...",
+                "description": "Every time we open a new tab. doesn't work properly without JavaScript enabled. Please enable it to continue. r. c. Logo Login. All Systems Operational. Report\u00a0...",
+                "url": "https:\/\/compass.seomonitor.com\/",
+                "breadcrumb": "https:\/\/compass.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 7,
+                "rank_absolute": 7,
+                "domain": "mgmt.seomonitor.com",
+                "title": "Laravel - SEOmonitor",
+                "description": "Login. SEOmonitor Manager.",
+                "url": "https:\/\/mgmt.seomonitor.com\/",
+                "breadcrumb": "https:\/\/mgmt.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 9,
+                "rank_absolute": 9,
+                "domain": "bday.seomonitor.com",
+                "title": "Birthday Monitor - SEOmonitor",
+                "description": "Login with your @seomonitor email address. Click Here.",
+                "url": "https:\/\/bday.seomonitor.com\/",
+                "breadcrumb": "https:\/\/bday.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 10,
+                "rank_absolute": 10,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Agency Dashboard: Streamline Your SEO ...",
+                "description": "Get a complete overview with SEOmonitor's Agency Dashboard. Streamline reporting, track performance, and showcase SEO success to your clients easily.",
+                "url": "https:\/\/www.seomonitor.com\/agency-dashboard\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a agency-dashboard"
+            },
+            {
+                "type": "organic",
+                "rank_group": 13,
+                "rank_absolute": 13,
+                "domain": "seomonitor.com.br",
+                "title": "Monitore a posi\u00e7\u00e3o das palavras-chaves ou keywords no ...",
+                "description": "SEO Monitor Logo. Entrar. Login. Entre com seus dados. Email. Senha. Lembrar email\/senha. N\u00e3o possui login? Cadastre-se gratuitamente \u00b7 Esqueceu sua senha\u00a0...",
+                "url": "https:\/\/seomonitor.com.br\/users\/sign_in",
+                "breadcrumb": "https:\/\/seomonitor.com.br \u203a sign_in"
+            },
+            {
+                "type": "organic",
+                "rank_group": 18,
+                "rank_absolute": 18,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Keyword Research: AI-Driven Research Tool",
+                "description": "Unlock relevant keywords with SEOmonitor's Magic Keywords. AI-powered, no manual work\u2014boost client visibility effortlessly with curated keyword suggestions.",
+                "url": "https:\/\/www.seomonitor.com\/seo-research\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a seo-research"
+            },
+            {
+                "type": "organic",
+                "rank_group": 34,
+                "rank_absolute": 34,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's APIs & Integrations: Seamless Data ...",
+                "description": "Connect your favorite tools with SEOmonitor's APIs & Integrations. Automate workflows, sync data, and enhance your agency's efficiency effortlessly.",
+                "url": "https:\/\/www.seomonitor.com\/apis-integrations\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a apis-integrations"
             }
         ]
     },
@@ -133,7 +413,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20monitor%20forecast&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:56:35 +00:00",
+        "datetime": "2025-01-25 15:53:51 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -141,17 +421,147 @@
             "related_searches"
         ],
         "se_results_count": 1310000,
-        "items_count": 1,
+        "items_count": 14,
         "items": [
+            {
+                "type": "organic",
+                "rank_group": 1,
+                "rank_absolute": 1,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Accurate Forecasts for Data-Driven SEO ...",
+                "description": "Quick and Easy: Your Forecast's Ready in 5 Minutes. Choose your keywords, select your ranking goals and get estimated sessions & conversions instantly.",
+                "url": "https:\/\/www.seomonitor.com\/seo-forecast\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a seo-forecast"
+            },
             {
                 "type": "organic",
                 "rank_group": 2,
                 "rank_absolute": 2,
+                "domain": "help.seomonitor.com",
+                "title": "Forecast Overview | SEOmonitor Help Center",
+                "description": "The Forecast estimates how much additional non-brand organic traffic would be generated if you achieve a specific SEO goal over a specific timeframe.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6615822-forecast-overview",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6615822-foreca..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 3,
+                "rank_absolute": 3,
                 "domain": "www.seomonitor.com",
                 "title": "SEOmonitor: Everything your SEO team needs. All in one place.",
                 "description": "Objective Tracking. Monitor SEO forecasts against real-time performance to stay aligned to campaign goals. Quickly uncover slower delivery and course-correct.",
                 "url": "https:\/\/www.seomonitor.com\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 4,
+                "rank_absolute": 4,
+                "domain": "help.seomonitor.com",
+                "title": "Understanding our forecasting algorithm",
+                "description": "Our precise algorithm estimates the monthly Visibility, additional sessions, conversions, and revenue, based on the estimated target ranks of the keywords\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/989443-understanding-our-forecasting-algorithm",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 989443-underst..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 5,
+                "rank_absolute": 5,
+                "domain": "help.seomonitor.com",
+                "title": "Understanding the Forecast results",
+                "description": "SEOmonitor's Forecast shows you how your rank improvements impact your Visibility, and estimates how much additional non-brand organic traffic would be\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6636643-understanding-the-forecast-results",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6636643-under..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 7,
+                "rank_absolute": 7,
+                "domain": "help.seomonitor.com",
+                "title": "Forecast | SEOmonitor Help Center",
+                "description": "Visualize future SEO performance with Forecast scenarios, understanding the Forecast results, track campaign performance against SEO goals.",
+                "url": "https:\/\/help.seomonitor.com\/en\/collections\/3658706-forecast",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a 3658706-forecast"
+            },
+            {
+                "type": "organic",
+                "rank_group": 11,
+                "rank_absolute": 11,
+                "domain": "help.seomonitor.com",
+                "title": "Visualize future SEO performance with Forecast scenarios",
+                "description": "The Forecast module works with scenarios that estimate how much additional non-brand organic traffic would be generated if you achieve a specific SEO goal in a\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6614948-visualize-future-seo-performance-with-forecast-scenarios",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6614948-visual..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 14,
+                "rank_absolute": 14,
+                "domain": "help.seomonitor.com",
+                "title": "Forecast vs. Actual traffic",
+                "description": "You can only compare actual to forecasted traffic in the Non-Brand tab because the forecast objective only takes non-brand organic traffic into consideration.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6337269-forecast-vs-actual-traffic",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6337269-foreca..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 18,
+                "rank_absolute": 18,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Powerful Tools for Agency Success",
+                "description": "Objective Tracking. Monitor SEO forecasts against real-time performance to stay aligned with campaign goals. AI-Driven Forecast Summary. Gain a comprehensive\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/all-features\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a all-features"
+            },
+            {
+                "type": "organic",
+                "rank_group": 19,
+                "rank_absolute": 19,
+                "domain": "help.seomonitor.com",
+                "title": "Conversion data in forecast algorithm",
+                "description": "We look for the most probable conversion rate for each keyword in our forecast to make your estimates even more precise.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6792476-conversion-data-in-forecast-algorithm",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6792476-conve..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 30,
+                "rank_absolute": 30,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Unique Content Marketing Automation for SEO",
+                "description": "Get accurate estimates for sessions, conversions, and revenue with SEO Forecasting ... Uses click-through rate curves for each rank and device, year-over-year\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/automation\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a automation"
+            },
+            {
+                "type": "organic",
+                "rank_group": 43,
+                "rank_absolute": 43,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor Pricing: Flexible Plans for SEO Teams Success",
+                "description": "SEO Forecasting Award winning forecasting of clicks and conversions. Rank Tracker Daily mobile and desktop rank tracking. Keyword Research Automatic or manual\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/pricing\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a pricing"
+            },
+            {
+                "type": "organic",
+                "rank_group": 65,
+                "rank_absolute": 65,
+                "domain": "help.seomonitor.com",
+                "title": "Forecast: Inertial & total traffic",
+                "description": "Our Forecast solution uses a reference system that enables the measuring of your forecasted traffic. It calculates the total non-brand organic traffic.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6777485-forecast-inertial-total-traffic",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6777485-foreca..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 83,
+                "rank_absolute": 83,
+                "domain": "feedreader.com",
+                "title": "SEOmonitor: Everything your SEO team needs. All...",
+                "description": "SEOmonitor. Accurate forecasting, and content marketing automation. seomonitor.com.",
+                "url": "https:\/\/feedreader.com\/observe\/seomonitor.com",
+                "breadcrumb": "https:\/\/feedreader.com \u203a observe \u203a seomonitor"
             }
         ]
     },
@@ -162,7 +572,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20forecasting%20tool&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:56:45 +00:00",
+        "datetime": "2025-01-25 15:53:59 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -171,35 +581,35 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEO+forecasting+tool+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtzezgX997gkWfdOgkOnfmWmhAVZu90VP2kcYlU-vgsSLZT4EU6K7Jq1LDywLgpOFPFzQv0Pkk7HWq8WsXUePM_Wr--sB9YgM6pXlXv95lEOuqudicmRpWK1Deb6Je-Dvh_ER2krqelqa3cdZgI_nb6hmMxjQyY&sa=X&ved=2ahUKEwj7vtqW25CLAxUyR2wGHf4-DmwQxKsJegQIKBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEO+forecasting+tool+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtzezgX997gkWfdOgkOnfmWmhAVZu90VP2kcYlU-vgsSLZT4EU6K7Jq1LDywLgpOFPFzQv0Pkk7HWq8WsXUePM_Wr--sB9YgM6pXlXv95lEOuqudicmRpWK1Deb6Je-Dvh_ER2krqelqa3cdZgI_nb6hmMxjQyY&sa=X&ved=2ahUKEwi64L7OnZGLAxVW78kDHTavHs4QxKsJegQIGRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Online",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+forecasting+tool+online&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRPQmvN_z-6oAwqQZwtKwMXSzK4rM_Vzb-jIzrn_xXhfsOjfMBOMZWkLYvQju1mEBcl7TTEa0Wey-8UyBf95iaiUD1syb7YnVeez-ZZN5EPSrmEyB41CTfQ1nEtF4Z4vvqREPKqgCymLxAfQ8jV5YVNGS-vE3KQ0hqEbeHqencOi3020Md&sa=X&ved=2ahUKEwj7vtqW25CLAxUyR2wGHf4-DmwQxKsJegQIJBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+forecasting+tool+online&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRPQmvN_z-6oAwqQZwtKwMXSzK4rM_Vzb-jIzrn_xXhfsOjfMBOMZWkLYvQju1mEBcl7TTEa0Wey-8UyBf95iaiUD1syb7YnVeez-ZZN5EPSrmEyB41CTfQ1nEtF4Z4vvqREPKqgCymLxAfQ8jV5YVNGS-vE3KQ0hqEbeHqencOi3020Md&sa=X&ved=2ahUKEwi64L7OnZGLAxVW78kDHTavHs4QxKsJegQIGxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Best",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Best+seo+forecasting+tool&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdvqoGcIQZySFPTWRT_OEdJYZRRkZhMf51lvfGSJijXVLP1at2Qso8UmuOIXPWd3QtqGNuy-Z7AwImVjyxJLiAi7Y7Pbh8RwJJZD_eHdCSQagF6gWVwt0qpJ_klyOHMZWPdrUBXA&sa=X&ved=2ahUKEwj7vtqW25CLAxUyR2wGHf4-DmwQxKsJegQIHxAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Best+seo+forecasting+tool&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdvqoGcIQZySFPTWRT_OEdJYZRRkZhMf51lvfGSJijXVLP1at2Qso8UmuOIXPWd3QtqGNuy-Z7AwImVjyxJLiAi7Y7Pbh8RwJJZD_eHdCSQagF6gWVwt0qpJ_klyOHMZWPdrUBXA&sa=X&ved=2ahUKEwi64L7OnZGLAxVW78kDHTavHs4QxKsJegQIHBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "SEOmonitor pricing",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEOmonitor+pricing&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRm_CRGUd-yP6jlXhptxey9FxpbsKRvVVscfaCatR3joBcp2wS3VL-BGbKPJQaWaMJe5Oi6eLHUH9IIFszn12bsO5B0ahXqU5XpFpqEzKUkVqXsO9mF2d6BDywaRaVjboNmgyWeSzDFLgm4CfE3aF-z1pRycQVrNEluv1Kx-MC3edtm4ct&sa=X&ved=2ahUKEwj7vtqW25CLAxUyR2wGHf4-DmwQxKsJegQIGhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEOmonitor+pricing&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRm_CRGUd-yP6jlXhptxey9FxpbsKRvVVscfaCatR3joBcp2wS3VL-BGbKPJQaWaMJe5Oi6eLHUH9IIFszn12bsO5B0ahXqU5XpFpqEzKUkVqXsO9mF2d6BDywaRaVjboNmgyWeSzDFLgm4CfE3aF-z1pRycQVrNEluv1Kx-MC3edtm4ct&sa=X&ved=2ahUKEwi64L7OnZGLAxVW78kDHTavHs4QxKsJegQIHhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Whiteboard Friday",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEO+forecasting+Whiteboard+Friday&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1Jx-OHQXNMLBX4hCzURS1Q-LmgkRPDmZn3JQxuGHiwMiDgkdXbgwIf_Lg4XQKapSUc7nCYJ6_0wlOCZkzo9Bw5M02fm4yZdMW4Fbyo4kfl7nIYhV1Vv0S1O8GO_GjYvo4ux6cUR3oej8kAyXMZzR4WbtUzDa--7qz_VicG6wVmaiNmM6&sa=X&ved=2ahUKEwj7vtqW25CLAxUyR2wGHf4-DmwQxKsJegQIChAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEO+forecasting+Whiteboard+Friday&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1Jx-OHQXNMLBX4hCzURS1Q-LmgkRPDmZn3JQxuGHiwMiDgkdXbgwIf_Lg4XQKapSUc7nCYJ6_0wlOCZkzo9Bw5M02fm4yZdMW4Fbyo4kfl7nIYhV1Vv0S1O8GO_GjYvo4ux6cUR3oej8kAyXMZzR4WbtUzDa--7qz_VicG6wVmaiNmM6&sa=X&ved=2ahUKEwi64L7OnZGLAxVW78kDHTavHs4QxKsJegQIHxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -210,9 +620,19 @@
             "images",
             "related_searches"
         ],
-        "se_results_count": 9070000,
-        "items_count": 1,
+        "se_results_count": 9030000,
+        "items_count": 2,
         "items": [
+            {
+                "type": "organic",
+                "rank_group": 1,
+                "rank_absolute": 1,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Accurate Forecasts for Data-Driven SEO ...",
+                "description": "Quick and Easy: Your Forecast's Ready in 5 Minutes. Choose your keywords, select your ranking goals and get estimated sessions & conversions instantly.",
+                "url": "https:\/\/www.seomonitor.com\/seo-forecast\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a seo-forecast"
+            },
             {
                 "type": "organic",
                 "rank_group": 8,
@@ -232,7 +652,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=rank%20monitor&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:56:49 +00:00",
+        "datetime": "2025-01-25 15:54:08 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -241,21 +661,21 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Gaming",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Rank+monitor+gaming&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR-yh6q-Qm9tJwaxrUIpAS87ANwVhRDljmCDZDFHmd15_kEntaMn4qkSQ83Q8TqTUSQUHd_Swz9MxhjzeCbbWO62091LWHd_imZls_suJ-tGSNjPYxKQlEwiS4TRFJkHjk2bJ9xndaqObmh_d4xfZYwvEDoVg&sa=X&ved=2ahUKEwjiw5yZ25CLAxXU1wIHHU8mPcoQxKsJegQIKBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Rank+monitor+gaming&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR-yh6q-Qm9tJwaxrUIpAS87ANwVhRDljmCDZDFHmd15_kEntaMn4qkSQ83Q8TqTUSQUHd_Swz9MxhjzeCbbWO62091LWHd_imZls_suJ-tGSNjPYxKQlEwiS4TRFJkHjk2bJ9xndaqObmh_d4xfZYwvEDoVg&sa=X&ved=2ahUKEwiIlYPTnZGLAxVJs1YBHSwOIEIQxKsJegQIGBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Brand",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Monitor+brand+rank&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR_cHFwiJkkCLtA0RGHHvajjzPaCuB-U4ymb4wKBMpiIOFHl4LsrryYul_7z8ZDvR-sdFz4WbIHmyfI3L5fqA50-LMFyHt-TbaK0vVenJx__532DVXaO9AvEa6kMVV8JASP95sd6P9Px9tLxrIlOGnfH01L9I&sa=X&ved=2ahUKEwjiw5yZ25CLAxXU1wIHHU8mPcoQxKsJegQIKhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Monitor+brand+rank&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR_cHFwiJkkCLtA0RGHHvajjzPaCuB-U4ymb4wKBMpiIOFHl4LsrryYul_7z8ZDvR-sdFz4WbIHmyfI3L5fqA50-LMFyHt-TbaK0vVenJx__532DVXaO9AvEa6kMVV8JASP95sd6P9Px9tLxrIlOGnfH01L9I&sa=X&ved=2ahUKEwiIlYPTnZGLAxVJs1YBHSwOIEIQxKsJegQIFxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "RTINGS Best",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=RTINGS+Best+Monitor&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRxoXEXj3dNTJp92DtQ4hpkA1L4L8lhixdz__YPCuxWN3pmRgh1FtjyflRyUM3eNMv2xGjhWfgFRR3MKmITgT1v3dkPtMji7gbJXeM1AzGlYAMx0i1SZVA3zTYMrbRbLdZQw5hjY8W-5udf1Bv5M_D8TC50Zw&sa=X&ved=2ahUKEwjiw5yZ25CLAxXU1wIHHU8mPcoQxKsJegQIKRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=RTINGS+Best+Monitor&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRxoXEXj3dNTJp92DtQ4hpkA1L4L8lhixdz__YPCuxWN3pmRgh1FtjyflRyUM3eNMv2xGjhWfgFRR3MKmITgT1v3dkPtMji7gbJXeM1AzGlYAMx0i1SZVA3zTYMrbRbLdZQw5hjY8W-5udf1Bv5M_D8TC50Zw&sa=X&ved=2ahUKEwiIlYPTnZGLAxVJs1YBHSwOIEIQxKsJegQIFRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -265,12 +685,32 @@
             "organic",
             "video",
             "people_also_ask",
-            "images",
             "related_searches"
         ],
-        "se_results_count": 302000000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 296000000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 3,
+                "rank_absolute": 3,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Rank Tracker: Precision Tracking for Agencies",
+                "description": "Track rankings with SEOmonitor's accurate and reliable Rank Tracker, designed to help agencies optimize strategies and improve client results.",
+                "url": "https:\/\/www.seomonitor.com\/rank-tracker\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a rank-tracker"
+            },
+            {
+                "type": "organic",
+                "rank_group": 25,
+                "rank_absolute": 27,
+                "domain": "help.seomonitor.com",
+                "title": "Rank Tracker | SEOmonitor Help Center",
+                "description": "Tracking your all-time best ranks. Multi-location tracking. Year-over-Year search trends. Highly-seasonal keywords. SERP feature detection & tracking.",
+                "url": "https:\/\/help.seomonitor.com\/en\/collections\/3157002-rank-tracker",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a 3157002-rank-tracker"
+            }
+        ]
     },
     {
         "keyword": "seo rankings monitor",
@@ -279,7 +719,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20rankings%20monitor&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:56:55 +00:00",
+        "datetime": "2025-01-25 15:54:21 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -288,8 +728,8 @@
             "discussions_and_forums",
             "related_searches"
         ],
-        "se_results_count": 18600000,
-        "items_count": 1,
+        "se_results_count": 18700000,
+        "items_count": 2,
         "items": [
             {
                 "type": "organic",
@@ -300,6 +740,16 @@
                 "description": "SEO Teams. Build SEO strategies quicker with automatic keyword research. Track SEO activities to ranking performance with daily, multi-device rank tracking.",
                 "url": "https:\/\/www.seomonitor.com\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 4,
+                "rank_absolute": 6,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Rank Tracker: Precision Tracking for Agencies",
+                "description": "Track rankings with SEOmonitor's accurate and reliable Rank Tracker, designed to help agencies optimize strategies and improve client results.",
+                "url": "https:\/\/www.seomonitor.com\/rank-tracker\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a rank-tracker"
             }
         ]
     },
@@ -310,7 +760,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=serp%20features%20monitor&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:56:58 +00:00",
+        "datetime": "2025-01-25 15:54:30 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -318,11 +768,33 @@
             "discussions_and_forums",
             "people_also_ask",
             "images",
+            "paid",
             "related_searches"
         ],
-        "se_results_count": 491000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 509000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 1,
+                "rank_absolute": 1,
+                "domain": "help.seomonitor.com",
+                "title": "SERP feature detection & tracking | SEOmonitor Help Center",
+                "description": "How we track SERP features (and your presence in them) on a daily basis, and where you can access the associated data within our platform.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/5612207-serp-feature-detection-tracking",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 5612207-serp-f..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 7,
+                "rank_absolute": 9,
+                "domain": "help.seomonitor.com",
+                "title": "Impact of SERP features on clicks: the % Clicks and CTR ...",
+                "description": "How we calculate and quantify the impact of the SERP Features on CTR, and how it can improve your SEO strategy and Forecast estimations.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/5738529-impact-of-serp-features-on-clicks-the-clicks-and-ctr-metrics",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 5738529-impac..."
+            }
+        ]
     },
     {
         "keyword": "seo forecasting",
@@ -331,7 +803,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20forecasting&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:02 +00:00",
+        "datetime": "2025-01-25 15:54:38 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -340,35 +812,35 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Template",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEO+forecasting+template&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgvXiZ2X4NrxJTG0K6AizlX2AGC3ozLqfGUmcSRc0bsz98FER-5Dh4avz1iMcxMoJ5XLnVsxfIuKMnOrS4Kp5Bpyi1i81rkMnH_ar3I9GYjIsGI8QDNs2o3GNwgApznUrpELfcv4&sa=X&ved=2ahUKEwiEx-6e25CLAxX_0QIHHZoBL4EQxKsJegQIDhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEO+forecasting+template&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgvXiZ2X4NrxJTG0K6AizlX2AGC3ozLqfGUmcSRc0bsz98FER-5Dh4avz1iMcxMoJ5XLnVsxfIuKMnOrS4Kp5Bpyi1i81rkMnH_ar3I9GYjIsGI8QDNs2o3GNwgApznUrpELfcv4&sa=X&ved=2ahUKEwiCkuPhnZGLAxWuJUQIHdXFA7YQxKsJegQIFBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Pdf",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+forecasting+pdf&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR-yh6q-Qm9tJwaxrUIpAS8--ONZZFKglC5kX4QW8bsQBsd94Q41sPxmudp3bMXOeEI0-KhDRZZN3vkBff6ORAf4M47ng13Vn4Ym3PI85vI0SKWhqvVCdA3Co7G-vsA6HeZXhaERDPjRzKDPp-JBCAxqH-n7M&sa=X&ved=2ahUKEwiEx-6e25CLAxX_0QIHHZoBL4EQxKsJegQIFxAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+forecasting+pdf&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR-yh6q-Qm9tJwaxrUIpAS8--ONZZFKglC5kX4QW8bsQBsd94Q41sPxmudp3bMXOeEI0-KhDRZZN3vkBff6ORAf4M47ng13Vn4Ym3PI85vI0SKWhqvVCdA3Co7G-vsA6HeZXhaERDPjRzKDPp-JBCAxqH-n7M&sa=X&ved=2ahUKEwiCkuPhnZGLAxWuJUQIHdXFA7YQxKsJegQIDRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Software",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+forecasting+software&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgvXiZ2X4NrxJTG0K6AizlX2wNU3vM0q9leMHlBMphzbCoIe1NmsYONEPsRcUMbZSC0Mtx-RHhs7Hve_zGZtePbk6bhbcknQAZswNWrTGu3uXpCahdPEBvCzAnIwLMCm_vYELn6M&sa=X&ved=2ahUKEwiEx-6e25CLAxX_0QIHHZoBL4EQxKsJegQIGhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+forecasting+software&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgvXiZ2X4NrxJTG0K6AizlX2wNU3vM0q9leMHlBMphzbCoIe1NmsYONEPsRcUMbZSC0Mtx-RHhs7Hve_zGZtePbk6bhbcknQAZswNWrTGu3uXpCahdPEBvCzAnIwLMCm_vYELn6M&sa=X&ved=2ahUKEwiCkuPhnZGLAxWuJUQIHdXFA7YQxKsJegQIChAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Tool free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEO+forecasting+tool+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze9HtjWYYthxwMPfOrtgpXc_66xWgCfQaKA8aHZYu_IWW8DBEhJwZCj0Vz0tq7cblvEQDXeqbWCr7RXO1ILcxecyTpbvNxfGEpq-KrpiYSE4fG6jkrz-7MdPKuSVYwVWJLx5DWbg6zKeM8zJBq64oBePm-nBO&sa=X&ved=2ahUKEwiEx-6e25CLAxX_0QIHHZoBL4EQxKsJegQIGRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEO+forecasting+tool+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze9HtjWYYthxwMPfOrtgpXc_66xWgCfQaKA8aHZYu_IWW8DBEhJwZCj0Vz0tq7cblvEQDXeqbWCr7RXO1ILcxecyTpbvNxfGEpq-KrpiYSE4fG6jkrz-7MdPKuSVYwVWJLx5DWbg6zKeM8zJBq64oBePm-nBO&sa=X&ved=2ahUKEwiCkuPhnZGLAxWuJUQIHdXFA7YQxKsJegQICxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Whiteboard Friday",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEO+forecasting+Whiteboard+Friday&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRafo2RIJWNea52sh_Dy2qH5AEdMwhtsCMkIZByjfksdGACZ42vxJhHGN0Vu4LbntjJo1jnhkq5y7zyY4655-1lOZRF1aH48yFYT5quiqXgUVfd8yY1lNsrjSQx2mehN1qEAniGRSlSP4BZqa434CJjAs4_tPyWZK6Yjkzkgw00lbG_sXS&sa=X&ved=2ahUKEwiEx-6e25CLAxX_0QIHHZoBL4EQxKsJegQIEBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEO+forecasting+Whiteboard+Friday&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRafo2RIJWNea52sh_Dy2qH5AEdMwhtsCMkIZByjfksdGACZ42vxJhHGN0Vu4LbntjJo1jnhkq5y7zyY4655-1lOZRF1aH48yFYT5quiqXgUVfd8yY1lNsrjSQx2mehN1qEAniGRSlSP4BZqa434CJjAs4_tPyWZK6Yjkzkgw00lbG_sXS&sa=X&ved=2ahUKEwiCkuPhnZGLAxWuJUQIHdXFA7YQxKsJegQIDBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -381,9 +853,30 @@
             "images",
             "related_searches"
         ],
-        "se_results_count": 17200000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 16900000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 2,
+                "rank_absolute": 3,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Accurate Forecasts for Data-Driven SEO ...",
+                "description": "Quick and Easy: Your Forecast's Ready in 5 Minutes. Choose your keywords, select your ranking goals and get estimated sessions & conversions instantly.",
+                "url": "https:\/\/www.seomonitor.com\/seo-forecast\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a seo-forecast"
+            },
+            {
+                "type": "organic",
+                "rank_group": 51,
+                "rank_absolute": 53,
+                "domain": "help.seomonitor.com",
+                "title": "Forecast Overview | SEOmonitor Help Center",
+                "description": "Our Forecast estimates how much additional non-brand organic traffic would be generated on achieving an SEO goal over a set timeframe.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6615822-forecast-overview",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6615822-foreca..."
+            }
+        ]
     },
     {
         "keyword": "agency rank tracking",
@@ -392,7 +885,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=agency%20rank%20tracking&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:08 +00:00",
+        "datetime": "2025-01-25 15:54:57 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -401,21 +894,21 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Template",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Agency+rank+tracking+template&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRGc9uc7VNQ3T0vXamzI5ccusG_Tn-WuNi1lVmhBPW3Uiq9tki2pYJK1_a7tsgAb_HhZVE5ni0U_C5P8v3YEYYL_SXiFSfAo99RFDKGz-4nRNnyPumA5XvX0Ha8GB8bj-MsYAUOJ9wNwpX0Oz-Vpp8Rul1RGGvioWHNIwsuiuqOzIff95N&sa=X&ved=2ahUKEwiumYOi25CLAxXn0wIHHcHTKqAQxKsJegQIGxAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Agency+rank+tracking+template&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRGc9uc7VNQ3T0vXamzI5ccusG_Tn-WuNi1lVmhBPW3Uiq9tki2pYJK1_a7tsgAb_HhZVE5ni0U_C5P8v3YEYYL_SXiFSfAo99RFDKGz-4nRNnyPumA5XvX0Ha8GB8bj-MsYAUOJ9wNwpX0Oz-Vpp8Rul1RGGvioWHNIwsuiuqOzIff95N&sa=X&ved=2ahUKEwj_yfblnZGLAxUaFLkGHQ8uN2UQxKsJegQIGhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Free+agency+rank+tracking&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdu_GGhzeXHTyDgFMVBNqq3oW0VHhVEUbn5UmDeyvjXqF1aBFcdPEqNN8O6WiaSCsVD9aO_s1srmiU_uVLDakc_pHFDhyuy2p_JsvxsQqLBr40t65jCVLJXrGFCsdndNb9iH_zZE&sa=X&ved=2ahUKEwiumYOi25CLAxXn0wIHHcHTKqAQxKsJegQIHRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Free+agency+rank+tracking&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdu_GGhzeXHTyDgFMVBNqq3oW0VHhVEUbn5UmDeyvjXqF1aBFcdPEqNN8O6WiaSCsVD9aO_s1srmiU_uVLDakc_pHFDhyuy2p_JsvxsQqLBr40t65jCVLJXrGFCsdndNb9iH_zZE&sa=X&ved=2ahUKEwj_yfblnZGLAxUaFLkGHQ8uN2UQxKsJegQIHBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Best",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Best+agency+rank+tracking&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdu_GGhzeXHTyDgFMVBNqq3r80QISXDu9nwIkZ8h2lRBjty_EXDgdle2ssotRgWkZIyBNZOjoS-UbtzFXVGbRmQJTiMFFX9Ma5Ap3oOQsYdO2IMX0KikUfjEjbrkVvslr8oRzKX0&sa=X&ved=2ahUKEwiumYOi25CLAxXn0wIHHcHTKqAQxKsJegQIDhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Best+agency+rank+tracking&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdu_GGhzeXHTyDgFMVBNqq3r80QISXDu9nwIkZ8h2lRBjty_EXDgdle2ssotRgWkZIyBNZOjoS-UbtzFXVGbRmQJTiMFFX9Ma5Ap3oOQsYdO2IMX0KikUfjEjbrkVvslr8oRzKX0&sa=X&ved=2ahUKEwj_yfblnZGLAxUaFLkGHQ8uN2UQxKsJegQIDRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -427,8 +920,29 @@
             "related_searches"
         ],
         "se_results_count": 151000000,
-        "items_count": 0,
-        "items": null
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 2,
+                "rank_absolute": 2,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Rank Tracker: Precision Tracking for Agencies",
+                "description": "Track rankings with SEOmonitor's accurate and reliable Rank Tracker, designed to help agencies optimize strategies and improve client results.",
+                "url": "https:\/\/www.seomonitor.com\/rank-tracker\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a rank-tracker"
+            },
+            {
+                "type": "organic",
+                "rank_group": 25,
+                "rank_absolute": 26,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Powerful Tools for Agency Success",
+                "description": "Track the highest desktop and mobile keyword ranks ever achieved. Rank data and trend. View current rankings and quickly compare them to past performance.",
+                "url": "https:\/\/www.seomonitor.com\/all-features\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a all-features"
+            }
+        ]
     },
     {
         "keyword": "forecasting seo",
@@ -437,7 +951,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=forecasting%20seo&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:11 +00:00",
+        "datetime": "2025-01-25 15:55:06 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -446,35 +960,35 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Template",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Forecasting+seo+template&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgs1SYmGS59WZlfqpBlUOzRoRD04TmFNqSxmKDW2vwhvwiaAJmt7mmO_ZqpJm4Vn97oOEm-mJvfnFrrJP-cLl2WPKvZngbRHV9NaKzz_Wpz2YsqBP0pBivH6yYcLSzW17r3LU9jU&sa=X&ved=2ahUKEwiF7dCj25CLAxVZkYkEHRJZE7gQxKsJegQIDhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Forecasting+seo+template&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgs1SYmGS59WZlfqpBlUOzRoRD04TmFNqSxmKDW2vwhvwiaAJmt7mmO_ZqpJm4Vn97oOEm-mJvfnFrrJP-cLl2WPKvZngbRHV9NaKzz_Wpz2YsqBP0pBivH6yYcLSzW17r3LU9jU&sa=X&ved=2ahUKEwjLktjunZGLAxW_s5UCHcjJHHgQxKsJegQIDhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Pdf",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Forecasting+seo+pdf&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR-yh6q-Qm9tJwaxrUIpAS8wuU3MDeoQjvxGxHKgNC-QggOT6sKuuqGkC85ppnmM8-WJCmm-yYXPHy5btpOFCFhekbMAgmluRkka4Rhh4uHp6_daZE_-clHo1nqtUJnzqy_WHQlnv-c3hTtrOWNdR0VveQgmc&sa=X&ved=2ahUKEwiF7dCj25CLAxVZkYkEHRJZE7gQxKsJegQIDRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Forecasting+seo+pdf&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR-yh6q-Qm9tJwaxrUIpAS8wuU3MDeoQjvxGxHKgNC-QggOT6sKuuqGkC85ppnmM8-WJCmm-yYXPHy5btpOFCFhekbMAgmluRkka4Rhh4uHp6_daZE_-clHo1nqtUJnzqy_WHQlnv-c3hTtrOWNdR0VveQgmc&sa=X&ved=2ahUKEwjLktjunZGLAxW_s5UCHcjJHHgQxKsJegQIDRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Forecasting+seo+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR-cvlb1OfQIRQrJ9hC_oM5q9AfYLcDxveSRuDAjnbSLopRG0MLQTjUfgkVDPTGhwzv20Z6Mkl4T9tc_oXryGPG7c9vl9OKxbQMBf4AkXOMVGTKIFXuwO6UxJ8Dx31j0vGvUMcgoMMrJV9AdWG053LKc3fsR8&sa=X&ved=2ahUKEwiF7dCj25CLAxVZkYkEHRJZE7gQxKsJegQIDBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Forecasting+seo+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR-cvlb1OfQIRQrJ9hC_oM5q9AfYLcDxveSRuDAjnbSLopRG0MLQTjUfgkVDPTGhwzv20Z6Mkl4T9tc_oXryGPG7c9vl9OKxbQMBf4AkXOMVGTKIFXuwO6UxJ8Dx31j0vGvUMcgoMMrJV9AdWG053LKc3fsR8&sa=X&ved=2ahUKEwjLktjunZGLAxW_s5UCHcjJHHgQxKsJegQICxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Sheet",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEO+forecasting+sheet&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRsv0kf1taZ9zjCBTgCkPSd_7Ug6kqty9rVb7_monsHSuRXMZX6dWj2ktqTr4X0FsEC9iM3zoVO5Uu6R7CQXpai2SQpWksebqv5ymb_asTW4UswzfJgJalB0KctATQoscvHe4CcET5XXqASa0oWR6W4YvHlj0&sa=X&ved=2ahUKEwiF7dCj25CLAxVZkYkEHRJZE7gQxKsJegQICxAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEO+forecasting+sheet&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRsv0kf1taZ9zjCBTgCkPSd_7Ug6kqty9rVb7_monsHSuRXMZX6dWj2ktqTr4X0FsEC9iM3zoVO5Uu6R7CQXpai2SQpWksebqv5ymb_asTW4UswzfJgJalB0KctATQoscvHe4CcET5XXqASa0oWR6W4YvHlj0&sa=X&ved=2ahUKEwjLktjunZGLAxW_s5UCHcjJHHgQxKsJegQIChAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Whiteboard Friday",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=SEO+forecasting+Whiteboard+Friday&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRafo2RIJWNea52sh_Dy2qH_yOCqpK4FkVT6wHPXkRIIb8N8qx4Sp0hp8zIbSBvUBsfdTs77xjzbaB0ur8lxHdW7CGcfnZw7bujku_6R756q-gxhP_EMzhVtVqs7C2LAhzvrYacFtDeQd9LOS8kPd39q2OcOjo3gtsVdF27-qDU5N1i3j9&sa=X&ved=2ahUKEwiF7dCj25CLAxVZkYkEHRJZE7gQxKsJegQIChAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=SEO+forecasting+Whiteboard+Friday&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRafo2RIJWNea52sh_Dy2qH_yOCqpK4FkVT6wHPXkRIIb8N8qx4Sp0hp8zIbSBvUBsfdTs77xjzbaB0ur8lxHdW7CGcfnZw7bujku_6R756q-gxhP_EMzhVtVqs7C2LAhzvrYacFtDeQd9LOS8kPd39q2OcOjo3gtsVdF27-qDU5N1i3j9&sa=X&ved=2ahUKEwjLktjunZGLAxW_s5UCHcjJHHgQxKsJegQIDBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -484,11 +998,33 @@
             "featured_snippet",
             "people_also_ask",
             "organic",
-            "images"
+            "images",
+            "related_searches"
         ],
         "se_results_count": 10800000,
-        "items_count": 0,
-        "items": null
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 5,
+                "rank_absolute": 7,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Accurate Forecasts for Data-Driven SEO ...",
+                "description": "Quick and Easy: Your Forecast's Ready in 5 Minutes. Choose your keywords, select your ranking goals and get estimated sessions & conversions instantly.",
+                "url": "https:\/\/www.seomonitor.com\/seo-forecast\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a seo-forecast"
+            },
+            {
+                "type": "organic",
+                "rank_group": 28,
+                "rank_absolute": 30,
+                "domain": "help.seomonitor.com",
+                "title": "Forecast Overview | SEOmonitor Help Center",
+                "description": "Our Forecast estimates how much additional non-brand organic traffic would be generated on achieving an SEO goal over a set timeframe.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6615822-forecast-overview",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6615822-foreca..."
+            }
+        ]
     },
     {
         "keyword": "monitor keywords",
@@ -497,7 +1033,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=monitor%20keywords&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:13 +00:00",
+        "datetime": "2025-01-25 15:55:14 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -506,27 +1042,28 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "List",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Monitor+keywords+list&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRsv0kf1taZ9zjCBTgCkPSd9UeRwJIv2z9hJiIlG9KoCCOFaOl612ZZK1p9T96_0Oc0ZcK2AY0tAuvczCCrwkfH4_FQ9ymbMzKkTv2uM4VRpjh8EfIsG71pMjoNdCsJErcII94KrqFMozseuH0jICS9YVOf1k&sa=X&ved=2ahUKEwjzu9qk25CLAxW3v4kEHYhEJxQQxKsJegQIDxAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Monitor+keywords+list&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRsv0kf1taZ9zjCBTgCkPSd9UeRwJIv2z9hJiIlG9KoCCOFaOl612ZZK1p9T96_0Oc0ZcK2AY0tAuvczCCrwkfH4_FQ9ymbMzKkTv2uM4VRpjh8EfIsG71pMjoNdCsJErcII94KrqFMozseuH0jICS9YVOf1k&sa=X&ved=2ahUKEwjQgabxnZGLAxU-CnkGHR4eEQYQxKsJegQIGRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Monitor+keywords+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRsv0kf1taZ9zjCBTgCkPSd9UeRwJIv2z9hJiIlG9KoCDkdXAcovaA3G-anpvCsz9f-D7wTZL818VPjsQTYmDCf6DP7v6f4BLHahmkLMKnyE9h_JuALabIa1Wbxz7L0jDc5wn20ISraGe8p8mgCuNO2LreTNw&sa=X&ved=2ahUKEwjzu9qk25CLAxW3v4kEHYhEJxQQxKsJegQIDhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Monitor+keywords+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRsv0kf1taZ9zjCBTgCkPSd9UeRwJIv2z9hJiIlG9KoCDkdXAcovaA3G-anpvCsz9f-D7wTZL818VPjsQTYmDCf6DP7v6f4BLHahmkLMKnyE9h_JuALabIa1Wbxz7L0jDc5wn20ISraGe8p8mgCuNO2LreTNw&sa=X&ved=2ahUKEwjQgabxnZGLAxU-CnkGHR4eEQYQxKsJegQIGBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Best",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Best+monitor+keywords&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRIuM809sakZkHUv2wx3-CaqBfJZyUPj4M2VeEXpiLmImV0a4lUEJIrBNqBb6cT2_A417W_ljIpHepM-8ornQ__ZaUHMnm-rO5treQdsu9l7vb0bBRo5O-euX6OWqr-5pxXWS4zXFHOrTrTcYEdJrLaBAdMaM&sa=X&ved=2ahUKEwjzu9qk25CLAxW3v4kEHYhEJxQQxKsJegQIGRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Best+monitor+keywords&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRIuM809sakZkHUv2wx3-CaqBfJZyUPj4M2VeEXpiLmImV0a4lUEJIrBNqBb6cT2_A417W_ljIpHepM-8ornQ__ZaUHMnm-rO5treQdsu9l7vb0bBRo5O-euX6OWqr-5pxXWS4zXFHOrTrTcYEdJrLaBAdMaM&sa=X&ved=2ahUKEwjQgabxnZGLAxU-CnkGHR4eEQYQxKsJegQIKBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
             ]
         },
         "item_types": [
+            "paid",
             "organic",
             "people_also_ask",
             "images",
@@ -534,17 +1071,27 @@
             "related_searches"
         ],
         "se_results_count": 224000000,
-        "items_count": 1,
+        "items_count": 2,
         "items": [
             {
                 "type": "organic",
                 "rank_group": 2,
-                "rank_absolute": 3,
+                "rank_absolute": 6,
                 "domain": "www.seomonitor.com",
                 "title": "SEOmonitor: Everything your SEO team needs. All in one place.",
                 "description": "Monitor your industry's keyword landscape, identify new competitors, and test keyword strategies without committing to a budget. Reliable search intent\u00a0...",
                 "url": "https:\/\/www.seomonitor.com\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 11,
+                "rank_absolute": 15,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Keyword Research: AI-Driven Research Tool",
+                "description": "Unlock relevant keywords with SEOmonitor's Magic Keywords. AI-powered, no manual work\u2014boost client visibility effortlessly with curated keyword suggestions.",
+                "url": "https:\/\/www.seomonitor.com\/seo-research\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a seo-research"
             }
         ]
     },
@@ -555,7 +1102,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20monitoring%20software&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:28 +00:00",
+        "datetime": "2025-01-25 15:55:35 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -564,28 +1111,28 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+monitoring+software+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZwjAD2uLq2Jzi0D2Kwav7RDNiBx2vMX0hHgwmjjjL-YwIaubKwVXN9gBkSQ0rk5t3HMjEO565KqwW2tmWMMuqyfIiyAsRv6t95xSNg0P76QAY36hSbWlPAvf9McQu2evY6_uuXcP2ZGOAiO0ZU9uIN6GiwqG&sa=X&ved=2ahUKEwiFvNyq25CLAxXhIUQIHRJAMKAQxKsJegQIDRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+monitoring+software+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZwjAD2uLq2Jzi0D2Kwav7RDNiBx2vMX0hHgwmjjjL-YwIaubKwVXN9gBkSQ0rk5t3HMjEO565KqwW2tmWMMuqyfIiyAsRv6t95xSNg0P76QAY36hSbWlPAvf9McQu2evY6_uuXcP2ZGOAiO0ZU9uIN6GiwqG&sa=X&ved=2ahUKEwiMgN38nZGLAxUD5TQHHa26BCoQxKsJegQIERAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Best",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Best+seo+monitoring+software&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRGc9uc7VNQ3T0vXamzI5ccg6Dp6oK3vIlXHZJYOxil9--6pOGgM8TqmBBZvdgUpmYbFUSMuBEgmKiv_-mtNHROH2IMhuGBnpzRw_F7yVGVV6ZDh4Lrp1wV66kkn9ZbcJmcBo1oa-maPtyvWmIAjrGzQeqglFf1KSBKnk4Dc2XK1DwzjMA&sa=X&ved=2ahUKEwiFvNyq25CLAxXhIUQIHRJAMKAQxKsJegQIJBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Best+seo+monitoring+software&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRGc9uc7VNQ3T0vXamzI5ccg6Dp6oK3vIlXHZJYOxil9--6pOGgM8TqmBBZvdgUpmYbFUSMuBEgmKiv_-mtNHROH2IMhuGBnpzRw_F7yVGVV6ZDh4Lrp1wV66kkn9ZbcJmcBo1oa-maPtyvWmIAjrGzQeqglFf1KSBKnk4Dc2XK1DwzjMA&sa=X&ved=2ahUKEwiMgN38nZGLAxUD5TQHHa26BCoQxKsJegQIDRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Google",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Google+SEO+tools&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBAMtgeyj-v6tErvqa7a0dxPqzZMEREOpP1LmlJC5P0nc2GKReYcak9llE0LlroJJbYnCvh64XpU-iBFyZ8ySHq7-spt4Pn7xdaJscitAr7px1AcjNwBkpj3BW-Lo5jzVHGTRD0hd71fVCmPB6AMjXP_ztB_6w039RTShFwi5fN8pMifX&sa=X&ved=2ahUKEwiFvNyq25CLAxXhIUQIHRJAMKAQxKsJegQIIRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Google+SEO+tools&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBAMtgeyj-v6tErvqa7a0dxPqzZMEREOpP1LmlJC5P0nc2GKReYcak9llE0LlroJJbYnCvh64XpU-iBFyZ8ySHq7-spt4Pn7xdaJscitAr7px1AcjNwBkpj3BW-Lo5jzVHGTRD0hd71fVCmPB6AMjXP_ztB_6w039RTShFwi5fN8pMifX&sa=X&ved=2ahUKEwiMgN38nZGLAxUD5TQHHa26BCoQxKsJegQIDBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Advanced",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Advanced+SEO+tools&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze0Z8PlkumUnzlQBQkqFuadxupHD6WuflrN-ZpoZ2REYcklvAOssG3FNxiRrk9qEIQAQ91CEch4-OOkiGIExJmZYzfc3t7KUpYSBo_y8hVFd9GS7suWKp1Yk46kbYcwqt4vhn7MT2NiQH4L5H9CXOD1SeqxhG&sa=X&ved=2ahUKEwiFvNyq25CLAxXhIUQIHRJAMKAQxKsJegQIGhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Advanced+SEO+tools&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze0Z8PlkumUnzlQBQkqFuadxupHD6WuflrN-ZpoZ2REYcklvAOssG3FNxiRrk9qEIQAQ91CEch4-OOkiGIExJmZYzfc3t7KUpYSBo_y8hVFd9GS7suWKp1Yk46kbYcwqt4vhn7MT2NiQH4L5H9CXOD1SeqxhG&sa=X&ved=2ahUKEwiMgN38nZGLAxUD5TQHHa26BCoQxKsJegQIBxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -598,7 +1145,7 @@
             "related_searches"
         ],
         "se_results_count": 26700000,
-        "items_count": 1,
+        "items_count": 2,
         "items": [
             {
                 "type": "organic",
@@ -609,6 +1156,16 @@
                 "description": "Objective Tracking. Monitor SEO forecasts against real-time performance to stay aligned to campaign goals. Quickly uncover slower delivery and course-correct.",
                 "url": "https:\/\/www.seomonitor.com\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 20,
+                "rank_absolute": 21,
+                "domain": "www.seomonitor.com",
+                "title": "Search Engine Monitor: Essential Tools for SEO Rank ...",
+                "description": "Learn how to monitor SEO rankings and track keywords effectively. Click to discover essential tools for boosting your online visibility!",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/search-engine-monitor-essential-tools-for-seo-rank-monitoring-and-keyword-tracking\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a learning-hub \u203a search-e..."
             }
         ]
     },
@@ -619,9 +1176,35 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=rank%20tracker%20features&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:32 +00:00",
+        "datetime": "2025-01-25 15:55:51 +00:00",
         "spell": null,
-        "refinement_chips": null,
+        "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[4]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[2]\/div[1]",
+            "items": [
+                {
+                    "type": "refinement_chips_element",
+                    "title": "List",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Rank+tracker+features+list&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdmaGq34HcGPbc3G8M2P34zoj_FqcigA7l5VHltDLQv5yDHErH99Cv2nevTSopltoi2dm-z2DLo9N2euF9qzX27IG4cH7Q7G_IoHZ1S5qAgPPFacw7V0Pm82ZhKPflaV7M_0TPMQ&sa=X&ved=2ahUKEwie2LSEnpGLAxUzL1kFHSMBAogQxKsJegQIDxAB&ictx=0",
+                    "domain": "www.google.ro",
+                    "options": null
+                },
+                {
+                    "type": "refinement_chips_element",
+                    "title": "Free",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Rank+tracker+features+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdmaGq34HcGPbc3G8M2P34zqvamYZZfYIE9xIYzdq8k5O00CuyVzxgICgirtO7fQ_YJaUKUvS6NduYXcm6ipHI_5gGbOe02tdTVr6SnEVGIeHg2ME9DeOxhC9vvOpbQXEpkIIYyA&sa=X&ved=2ahUKEwie2LSEnpGLAxUzL1kFHSMBAogQxKsJegQIDhAB&ictx=0",
+                    "domain": "www.google.ro",
+                    "options": null
+                },
+                {
+                    "type": "refinement_chips_element",
+                    "title": "Ahrefs",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Rank+tracker+features+ahrefs&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZyau4BR9D5OqLcS3cnU9iL2YUvvsebXBxyaNaWBmx7ybPW1vC-FlicUrMY5kXy4WwzAIyBsZq_7N1ScTKDJc3rPcSLqa99fu5S17F2UFuHJlxHCR2Viq5lIAy_buKOBmH12KEg4Mn3-pyn3gzbSdKXckyVlL&sa=X&ved=2ahUKEwie2LSEnpGLAxUzL1kFHSMBAogQxKsJegQIDBAB&ictx=0",
+                    "domain": "www.google.ro",
+                    "options": null
+                }
+            ]
+        },
         "item_types": [
             "found_on_web",
             "organic",
@@ -630,8 +1213,29 @@
             "related_searches"
         ],
         "se_results_count": 273000000,
-        "items_count": 0,
-        "items": null
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 9,
+                "rank_absolute": 11,
+                "domain": "www.seomonitor.com",
+                "title": "Rank tracker: The ultimate guide to monitoring keyword ...",
+                "description": "Oct 9, 2024",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/rank-tracker-the-ultimate-guide-to-monitoring-keyword-rankings\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a learning-hub \u203a rank-trac..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 11,
+                "rank_absolute": 13,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Rank Tracker: Precision Tracking for Agencies",
+                "description": "Personalized keyword difficulty \u00b7 Opportunity Score \u00b7 All-time best-rank label \u00b7 Automated grouping of close variations \u00b7 Rank and SERP Feature Visibility Score.",
+                "url": "https:\/\/www.seomonitor.com\/rank-tracker\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a rank-tracker"
+            }
+        ]
     },
     {
         "keyword": "daily rank tracker",
@@ -640,7 +1244,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=daily%20rank%20tracker&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:37 +00:00",
+        "datetime": "2025-01-25 15:56:12 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -649,21 +1253,21 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Daily+rank+tracker+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBAMtgeyj-v6tErvqa7a0d22mXKzcjjPsgSq1E9KEYFw4qxLAYg3nVBuRubQK28VMUA7bN2MBpmN0mtZtrkdPBFOqeWTt_aEDdpInSf_BtDJ5btylgsMP_9PkYd7mhTgGgOhaSlhgglfLq6CNE_LP8Vwxl8A&sa=X&ved=2ahUKEwjk5d-v25CLAxXzSGwGHQ1dCCMQxKsJegQIGBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Daily+rank+tracker+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBAMtgeyj-v6tErvqa7a0d22mXKzcjjPsgSq1E9KEYFw4qxLAYg3nVBuRubQK28VMUA7bN2MBpmN0mtZtrkdPBFOqeWTt_aEDdpInSf_BtDJ5btylgsMP_9PkYd7mhTgGgOhaSlhgglfLq6CNE_LP8Vwxl8A&sa=X&ved=2ahUKEwjfqcONnpGLAxXkk_0HHXLDAWkQxKsJegQIIxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Google",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Daily+rank+tracker+google&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtzeyzpJ0kxDM99g91kI7XH8kW2tPi0S-voId0FV9GIshmSJNThgdY8sLBC_4932odgwIkT43i8EJ6jX8UNC0rb02YnYh7RIsZfrG8Orr988vaAnJquheVvFNhKxAqI5azQQsh9u7Y&sa=X&ved=2ahUKEwjk5d-v25CLAxXzSGwGHQ1dCCMQxKsJegQIERAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Daily+rank+tracker+google&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtzeyzpJ0kxDM99g91kI7XH8kW2tPi0S-voId0FV9GIshmSJNThgdY8sLBC_4932odgwIkT43i8EJ6jX8UNC0rb02YnYh7RIsZfrG8Orr988vaAnJquheVvFNhKxAqI5azQQsh9u7Y&sa=X&ved=2ahUKEwjfqcONnpGLAxXkk_0HHXLDAWkQxKsJegQIFRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "App",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Daily+rank+tracker+app&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRIuM809sakZkHUv2wx3-Caq-ujh8NRI8EZrTNxNVdsbpAGzPQBZ52PL-kgbu2knYEQ-ugmNYTl1B-36y9T-EkX2HN6Ed6HloudcKM1WyK9WpJ59z_7yoZx-xzmtnBihVnJVvGCJrdSeVyqgyDoOHuVazy0wU&sa=X&ved=2ahUKEwjk5d-v25CLAxXzSGwGHQ1dCCMQxKsJegQIHRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Daily+rank+tracker+app&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRIuM809sakZkHUv2wx3-Caq-ujh8NRI8EZrTNxNVdsbpAGzPQBZ52PL-kgbu2knYEQ-ugmNYTl1B-36y9T-EkX2HN6Ed6HloudcKM1WyK9WpJ59z_7yoZx-xzmtnBihVnJVvGCJrdSeVyqgyDoOHuVazy0wU&sa=X&ved=2ahUKEwjfqcONnpGLAxXkk_0HHXLDAWkQxKsJegQIFBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -671,13 +1275,35 @@
         },
         "item_types": [
             "organic",
+            "people_also_ask",
             "images",
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 18300000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 18400000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 5,
+                "rank_absolute": 5,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Rank Tracker: Precision Tracking for Agencies",
+                "description": "Track rankings with SEOmonitor's accurate and reliable Rank Tracker, designed to help agencies optimize strategies and improve client results.",
+                "url": "https:\/\/www.seomonitor.com\/rank-tracker\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a rank-tracker"
+            },
+            {
+                "type": "organic",
+                "rank_group": 36,
+                "rank_absolute": 37,
+                "domain": "help.seomonitor.com",
+                "title": "Desktop & mobile ranks every 24H with a 99.9% SLA",
+                "description": "One thing that differentiates SEOmonitor's Rank Tracker is that it reliably provides daily ranks for both desktop and mobile as standard. So you don't have\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/5595610-desktop-mobile-ranks-every-24h-with-a-99-9-sla",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 5595610-deskt..."
+            }
+        ]
     },
     {
         "keyword": "serp visibility",
@@ -686,7 +1312,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=serp%20visibility&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:44 +00:00",
+        "datetime": "2025-01-25 15:56:27 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -695,9 +1321,30 @@
             "images",
             "related_searches"
         ],
-        "se_results_count": 2900000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 2840000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 3,
+                "rank_absolute": 4,
+                "domain": "www.seomonitor.com",
+                "title": "SEO & SERP visibility: Boost your website's search engine ...",
+                "description": "SERP visibility assesses the likelihood of your website being seen and clicked on by users searching for topics related to your content. This\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/seo-serp-visibility-boost-your-websites-search-engine-presence\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a learning-hub \u203a seo-serp-..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 6,
+                "rank_absolute": 7,
+                "domain": "help.seomonitor.com",
+                "title": "SERP Feature Visibility metric",
+                "description": "The SERP Feature Visibility is a group-level performance metric based on whether a website is listed in a SERP feature, and on the search volumes of the\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6349388-serp-feature-visibility-metric",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6349388-serp-f..."
+            }
+        ]
     },
     {
         "keyword": "seo monitoring tool",
@@ -706,7 +1353,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20monitoring%20tool&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:47 +00:00",
+        "datetime": "2025-01-25 15:56:35 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -715,35 +1362,35 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+monitoring+tool+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgkKEWwDDqZEyMN4Mt6aLVD5UXDflnxHWYaOa3mhCJYe6Ho2zpFlM9OLCy2fcZDJEM1qslklnNrFq19lMiqwCxlyiN9kfthAvSE26IPo9jQXjALaTK1KnCsTdgNXxlldyLrPsTII&sa=X&ved=2ahUKEwjcx_S025CLAxXtm4kEHUNZH1UQxKsJegQIDhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+monitoring+tool+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgkKEWwDDqZEyMN4Mt6aLVD5UXDflnxHWYaOa3mhCJYe6Ho2zpFlM9OLCy2fcZDJEM1qslklnNrFq19lMiqwCxlyiN9kfthAvSE26IPo9jQXjALaTK1KnCsTdgNXxlldyLrPsTII&sa=X&ved=2ahUKEwiZ6v-YnpGLAxWb3zQHHRhPLLIQxKsJegQILRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Online",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+monitoring+tool+online&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdhD1f48uVBsFOfYQWpHg8hqT_SQa1_BbFPk8IAGeatfU3rSOAomn8Tzjw2csEprD1xA33cwPWq8Dl6seimNHRQcsgilF8HIBIDc-hTbyvp4ej2RSHnhB-coCZTJcqRMvKLaFI8c&sa=X&ved=2ahUKEwjcx_S025CLAxXtm4kEHUNZH1UQxKsJegQIDRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+monitoring+tool+online&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRBW3vcflRmn84HWC4WBFgdhD1f48uVBsFOfYQWpHg8hqT_SQa1_BbFPk8IAGeatfU3rSOAomn8Tzjw2csEprD1xA33cwPWq8Dl6seimNHRQcsgilF8HIBIDc-hTbyvp4ej2RSHnhB-coCZTJcqRMvKLaFI8c&sa=X&ved=2ahUKEwiZ6v-YnpGLAxWb3zQHHRhPLLIQxKsJegQIJhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "On-page",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=on-page+seo+tools&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRIuM809sakZkHUv2wx3-CahmbYEn7bAiFZgD46K_ZXMmVbtp4Ljp20nBXsPOt-9fVyY3s2qANUuwmwDxLVsM62lDlzds_pkPw0NYVw1VR_fgMhj793j5x02Zzl_DXBg_H3nmogPpKMuB8JF1GFK35YCEeGMe3HZBYBerAKNpYxaDX6nWA&sa=X&ved=2ahUKEwjcx_S025CLAxXtm4kEHUNZH1UQxKsJegQIDBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=on-page+seo+tools&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRIuM809sakZkHUv2wx3-CahmbYEn7bAiFZgD46K_ZXMmVbtp4Ljp20nBXsPOt-9fVyY3s2qANUuwmwDxLVsM62lDlzds_pkPw0NYVw1VR_fgMhj793j5x02Zzl_DXBg_H3nmogPpKMuB8JF1GFK35YCEeGMe3HZBYBerAKNpYxaDX6nWA&sa=X&ved=2ahUKEwiZ6v-YnpGLAxWb3zQHHRhPLLIQxKsJegQIIRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Best",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Best+seo+monitoring+tool&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze_2MfafYa6gRr1HvwKlHUjBEvUzmwiKwCNm_MAQxotpN9jwC8RrHB13zYN0Pfs9ElIBhatK57MB3iFx_9_r01zOkbk9RvPWpdxMbPnwuCuR5qhuwzlUwRUxa1ZSUUUwnm9gCue8&sa=X&ved=2ahUKEwjcx_S025CLAxXtm4kEHUNZH1UQxKsJegQIFhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Best+seo+monitoring+tool&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze_2MfafYa6gRr1HvwKlHUjBEvUzmwiKwCNm_MAQxotpN9jwC8RrHB13zYN0Pfs9ElIBhatK57MB3iFx_9_r01zOkbk9RvPWpdxMbPnwuCuR5qhuwzlUwRUxa1ZSUUUwnm9gCue8&sa=X&ved=2ahUKEwiZ6v-YnpGLAxWb3zQHHRhPLLIQxKsJegQIHhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Small SEO tools",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Small+SEO+tools&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze_2MfafYa6gRr1HvwKlHUjADdmuDQbIA_1rP0ewtYxiuXGUXpxjNPbcepKhCYFCLjY-lyrIzuypY0q8jnHjPgUuOmHDYu-kYXOiywzYxFYH4y3aplXLVCXUS1UlXdA488VVKexc&sa=X&ved=2ahUKEwjcx_S025CLAxXtm4kEHUNZH1UQxKsJegQIChAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Small+SEO+tools&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze_2MfafYa6gRr1HvwKlHUjADdmuDQbIA_1rP0ewtYxiuXGUXpxjNPbcepKhCYFCLjY-lyrIzuypY0q8jnHjPgUuOmHDYu-kYXOiywzYxFYH4y3aplXLVCXUS1UlXdA488VVKexc&sa=X&ved=2ahUKEwiZ6v-YnpGLAxWb3zQHHRhPLLIQxKsJegQIHRAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -755,8 +1402,8 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 36000000,
-        "items_count": 1,
+        "se_results_count": 35800000,
+        "items_count": 2,
         "items": [
             {
                 "type": "organic",
@@ -767,6 +1414,16 @@
                 "description": "Create winning SEO strategies with enhanced keyword research, accurate forecasting, and content marketing automation.",
                 "url": "https:\/\/www.seomonitor.com\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 18,
+                "rank_absolute": 19,
+                "domain": "www.seomonitor.com",
+                "title": "Search Engine Monitor: Essential Tools for SEO Rank ...",
+                "description": "Let's dive into the essential tools and strategies for SEO rank monitoring and keyword tracking, helping you chart a course through the complex waters of\u00a0...",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/search-engine-monitor-essential-tools-for-seo-rank-monitoring-and-keyword-tracking\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a learning-hub \u203a search-e..."
             }
         ]
     },
@@ -777,7 +1434,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20visibility%20search%20metrics&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:54 +00:00",
+        "datetime": "2025-01-25 15:56:52 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -787,9 +1444,30 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 7700000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 7640000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 7,
+                "rank_absolute": 9,
+                "domain": "help.seomonitor.com",
+                "title": "Reliable Visibility metric",
+                "description": "SEOmonitor's Visibility is a group-level metric that takes into account both the ranks and search volumes of the keywords to reliably express the ranking\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6344566-reliable-visibility-metric",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6344566-reliabl..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 8,
+                "rank_absolute": 10,
+                "domain": "www.seomonitor.com",
+                "title": "SEO & SERP visibility: Boost your website's search engine ...",
+                "description": "SEO visibility measures how prominently a website appears in search engine results pages (SERPs) for relevant queries.",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/seo-serp-visibility-boost-your-websites-search-engine-presence\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a learning-hub \u203a seo-serp-..."
+            }
+        ]
     },
     {
         "keyword": "serp chrome extension",
@@ -798,7 +1476,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=serp%20chrome%20extension&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:57:58 +00:00",
+        "datetime": "2025-01-25 15:56:57 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -807,8 +1485,19 @@
             "related_searches"
         ],
         "se_results_count": 110000,
-        "items_count": 0,
-        "items": null
+        "items_count": 1,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 4,
+                "rank_absolute": 4,
+                "domain": "help.seomonitor.com",
+                "title": "SERP Discrepancy Checker (Chrome extension)",
+                "description": "Once you install the SERP Discrepancy Checker Chrome extension, the \u201cRank Discrepancy Checker\u201d button becomes available in any Google Search (SERP) performed.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/3516045-serp-discrepancy-checker-chrome-extension",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 3516045-serp-d..."
+            }
+        ]
     },
     {
         "keyword": "track serp features",
@@ -817,7 +1506,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=track%20serp%20features&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:58:05 +00:00",
+        "datetime": "2025-01-25 15:57:02 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -826,37 +1515,58 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Examples",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Track+serp+features+examples&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZ17HOEtalPU5LgJYAfa24SvHHzXjEl24D_qJQ2vpxUu-Pwr719RYV9ugGAz0j64vifG1nEHc1ajLlKSVAWL3VZ18qK5cmXnEpBtJQKg4Gnyhi4scfnYv1zEKaWcqmNxLev-GTRw03J4iffGlXX85GKytNXdh&sa=X&ved=2ahUKEwiR3fa825CLAxWO4ckDHR_1OAcQxKsJegQIEhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Track+serp+features+examples&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZ17HOEtalPU5LgJYAfa24SvHHzXjEl24D_qJQ2vpxUu-Pwr719RYV9ugGAz0j64vifG1nEHc1ajLlKSVAWL3VZ18qK5cmXnEpBtJQKg4Gnyhi4scfnYv1zEKaWcqmNxLev-GTRw03J4iffGlXX85GKytNXdh&sa=X&ved=2ahUKEwjdrr2mnpGLAxX0KRAIHWr3ItoQxKsJegQIEBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Track+serp+features+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgl8yQOB3fWzF-8D7lQhpMEa-Mq8t0_8I-TfVoc5jlSZYggg4P-8gEazqIrvM-SncgRUY75-PRnZXeXg7uVAD3DXQiuJRpxqxIJWSn2Ap2QsGkReZkHxKxMNGWzUwkjYq8nOxQ80&sa=X&ved=2ahUKEwiR3fa825CLAxWO4ckDHR_1OAcQxKsJegQIFRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Track+serp+features+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgl8yQOB3fWzF-8D7lQhpMEa-Mq8t0_8I-TfVoc5jlSZYggg4P-8gEazqIrvM-SncgRUY75-PRnZXeXg7uVAD3DXQiuJRpxqxIJWSn2Ap2QsGkReZkHxKxMNGWzUwkjYq8nOxQ80&sa=X&ved=2ahUKEwjdrr2mnpGLAxX0KRAIHWr3ItoQxKsJegQIDxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "List",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Track+serp+features+list&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgl8yQOB3fWzF-8D7lQhpMEbeDn1aYx6xpA1GGmdAo7RAiPZ3gROamE-pgQpDWXGfsPtsKjZ_GM5y1prD837qKsn2ESnMkus_J5Cpqx2ZfyYtQyU6rzDuLrcBb_frmKr_Y3pqhyM&sa=X&ved=2ahUKEwiR3fa825CLAxWO4ckDHR_1OAcQxKsJegQIERAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Track+serp+features+list&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR9uegVYgQNm0A_FIwPHdCgl8yQOB3fWzF-8D7lQhpMEbeDn1aYx6xpA1GGmdAo7RAiPZ3gROamE-pgQpDWXGfsPtsKjZ_GM5y1prD837qKsn2ESnMkus_J5Cpqx2ZfyYtQyU6rzDuLrcBb_frmKr_Y3pqhyM&sa=X&ved=2ahUKEwjdrr2mnpGLAxX0KRAIHWr3ItoQxKsJegQIDhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
             ]
         },
         "item_types": [
-            "found_on_web",
-            "organic",
+            "featured_snippet",
             "people_also_ask",
+            "organic",
             "video",
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 654000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 659000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 7,
+                "rank_absolute": 10,
+                "domain": "help.seomonitor.com",
+                "title": "SERP feature detection & tracking | SEOmonitor Help Center",
+                "description": "How we track SERP features (and your presence in them) on a daily basis, and where you can access the associated data within our platform.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/5612207-serp-feature-detection-tracking",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 17,
+                "rank_absolute": 20,
+                "domain": "help.seomonitor.com",
+                "title": "SERP Feature Visibility metric",
+                "description": "By understanding and analyzing the SERP feature Visibility metric, you can optimize your strategies and enhance your website's overall search Visibility.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6349388-serp-feature-visibility-metric",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            }
+        ]
     },
     {
         "keyword": "what is rank tracking",
@@ -865,7 +1575,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=what%20is%20rank%20tracking&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:58:15 +00:00",
+        "datetime": "2025-01-25 15:57:07 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -876,9 +1586,30 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 215000000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 212000000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 18,
+                "rank_absolute": 20,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Rank Tracker: Precision Tracking for Agencies",
+                "description": "Track rankings with SEOmonitor's accurate and reliable Rank Tracker, designed to help agencies optimize strategies and improve client results.",
+                "url": "https:\/\/www.seomonitor.com\/rank-tracker\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a rank-tracker"
+            },
+            {
+                "type": "organic",
+                "rank_group": 31,
+                "rank_absolute": 33,
+                "domain": "www.seomonitor.com",
+                "title": "Rank tracker: The ultimate guide to monitoring keyword ...",
+                "description": "This guide breaks down how you can monitor keyword rankings effectively, whether you're just starting out in SEO or already have years of experience.",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/rank-tracker-the-ultimate-guide-to-monitoring-keyword-rankings\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a learning-hub \u203a rank-trac..."
+            }
+        ]
     },
     {
         "keyword": "keyword forecasting",
@@ -887,7 +1618,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=keyword%20forecasting&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:58:27 +00:00",
+        "datetime": "2025-01-25 15:57:20 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -896,16 +1627,26 @@
             "images",
             "related_searches"
         ],
-        "se_results_count": 75900000,
-        "items_count": 1,
+        "se_results_count": 76600000,
+        "items_count": 2,
         "items": [
             {
                 "type": "organic",
-                "rank_group": 18,
-                "rank_absolute": 19,
+                "rank_group": 6,
+                "rank_absolute": 7,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Accurate Forecasts for Data-Driven SEO ...",
+                "description": "Quick and Easy: Your Forecast's Ready in 5 Minutes. Choose your keywords, select your ranking goals and get estimated sessions & conversions instantly.",
+                "url": "https:\/\/www.seomonitor.com\/seo-forecast\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a seo-forecast"
+            },
+            {
+                "type": "organic",
+                "rank_group": 19,
+                "rank_absolute": 20,
                 "domain": "www.seomonitor.com",
                 "title": "SEOmonitor: Everything your SEO team needs. All in one place.",
-                "description": "Create winning SEO strategies with enhanced keyword research, accurate forecasting, and content marketing automation. Loved by agencies, trusted by brands.",
+                "description": "Create winning SEO strategies with enhanced keyword research, accurate forecasting, and content marketing automation.",
                 "url": "https:\/\/www.seomonitor.com\/",
                 "breadcrumb": "https:\/\/www.seomonitor.com"
             }
@@ -918,7 +1659,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=rank%20tracker%20keyword%20difficulty&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:58:40 +00:00",
+        "datetime": "2025-01-25 15:57:23 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -929,9 +1670,30 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 8110000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 8190000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 5,
+                "rank_absolute": 8,
+                "domain": "help.seomonitor.com",
+                "title": "Keyword Difficulty | SEOmonitor Help Center",
+                "description": "The Keyword Difficulty is a metric that, on 3 levels (easy, medium, hard), estimates the effort it would take for a specific website to rank in the top 10 ...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/5612254-keyword-difficulty",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 5612254-keyw..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 17,
+                "rank_absolute": 20,
+                "domain": "help.seomonitor.com",
+                "title": "Rank Tracker | SEOmonitor Help Center",
+                "description": "How to organize your keywords using filters in the Rank Tracker \u00b7 Archive ... Keyword Difficulty \u00b7 SEO Opportunity \u00b7 Specialized views for Strategy, Analysis\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/collections\/3157002-rank-tracker",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a 3157002-rank-tracker"
+            }
+        ]
     },
     {
         "keyword": "seo visibility score",
@@ -940,7 +1702,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=seo%20visibility%20score&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:58:55 +00:00",
+        "datetime": "2025-01-25 15:57:31 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -949,21 +1711,21 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Example",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+visibility+score+example&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZ4j4cyqWqVSXy-35PKdf2bxXmDBSrM9h-vdYBi_JZAu1zmrFnsRQ5llDiz2-sKKYIZbYknOwUmt8s8uUTDQqftRX0orPuAyc56mqrADHKz9u-c_BvzQTGIIsBcExWDCJH9-eu-ETOLCNXohpfmChD2yW1g4p&sa=X&ved=2ahUKEwiq-JvV25CLAxXZUkEAHaHHNGAQxKsJegQIEBAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+visibility+score+example&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjUwJNOx_axXp6yT5rJSaZ4j4cyqWqVSXy-35PKdf2bxXmDBSrM9h-vdYBi_JZAu1zmrFnsRQ5llDiz2-sKKYIZbYknOwUmt8s8uUTDQqftRX0orPuAyc56mqrADHKz9u-c_BvzQTGIIsBcExWDCJH9-eu-ETOLCNXohpfmChD2yW1g4p&sa=X&ved=2ahUKEwjowYSznpGLAxWdSjABHXClIUYQxKsJegQICxAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Calculator",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+visibility+score+calculator&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRU9UcYC7WWmEvNkW1gIRljz-I4oOpjnrHk8f4B83A4xT8xE0Nkkj2Y2JeP9To4AjTnGHuEmaUVMApry10EiQM25NJ5aCSITJCJuUAMG1fGJciQsoMA6rLwXqH5DC-4sxGVvm5z14u6QSLu17h2yjTx7mTSgbYscCmaylXbPQP1SaJfH6c&sa=X&ved=2ahUKEwiq-JvV25CLAxXZUkEAHaHHNGAQxKsJegQIDRAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+visibility+score+calculator&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRU9UcYC7WWmEvNkW1gIRljz-I4oOpjnrHk8f4B83A4xT8xE0Nkkj2Y2JeP9To4AjTnGHuEmaUVMApry10EiQM25NJ5aCSITJCJuUAMG1fGJciQsoMA6rLwXqH5DC-4sxGVvm5z14u6QSLu17h2yjTx7mTSgbYscCmaylXbPQP1SaJfH6c&sa=X&ved=2ahUKEwjowYSznpGLAxWdSjABHXClIUYQxKsJegQIFBAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Seo+visibility+score+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtzezwWEHXQoSLO-vIIMu2neqA9BAKFfXJDcijp7HOL--bGNRScP0Fwio1qNxFdytOhIYagsPF0VrXabmU0kX4zGqYN-47IrNrn8MkmoK34xr13vVr2MuI-e0lp-aCz-lgMXGC49IE&sa=X&ved=2ahUKEwiq-JvV25CLAxXZUkEAHaHHNGAQxKsJegQIChAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Seo+visibility+score+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtzezwWEHXQoSLO-vIIMu2neqA9BAKFfXJDcijp7HOL--bGNRScP0Fwio1qNxFdytOhIYagsPF0VrXabmU0kX4zGqYN-47IrNrn8MkmoK34xr13vVr2MuI-e0lp-aCz-lgMXGC49IE&sa=X&ved=2ahUKEwjowYSznpGLAxWdSjABHXClIUYQxKsJegQIExAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -976,9 +1738,30 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 4610000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 4580000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 8,
+                "rank_absolute": 10,
+                "domain": "help.seomonitor.com",
+                "title": "Reliable Visibility metric",
+                "description": "SEOmonitor's Visibility is a group-level metric that takes into account both the ranks and search volumes of the keywords to reliably express the ranking\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6344566-reliable-visibility-metric",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 6344566-reliabl..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 18,
+                "rank_absolute": 20,
+                "domain": "www.seomonitor.com",
+                "title": "SEO & SERP visibility: Boost your website's search engine ...",
+                "description": "SEO visibility measures how prominently a website appears in search engine results pages (SERPs) for relevant queries.",
+                "url": "https:\/\/www.seomonitor.com\/learning-hub\/seo-serp-visibility-boost-your-websites-search-engine-presence\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a learning-hub \u203a seo-serp-..."
+            }
+        ]
     },
     {
         "keyword": "serp metrics",
@@ -987,7 +1770,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=serp%20metrics&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:58:59 +00:00",
+        "datetime": "2025-01-25 15:57:35 +00:00",
         "spell": null,
         "refinement_chips": null,
         "item_types": [
@@ -996,9 +1779,30 @@
             "images",
             "related_searches"
         ],
-        "se_results_count": 752000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 753000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 11,
+                "rank_absolute": 12,
+                "domain": "help.seomonitor.com",
+                "title": "SERP Feature Visibility metric",
+                "description": "The SERP Feature Visibility is a group-level performance metric based on whether a website is listed in a SERP feature, and on the search volumes of the\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/6349388-serp-feature-visibility-metric",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            },
+            {
+                "type": "organic",
+                "rank_group": 27,
+                "rank_absolute": 28,
+                "domain": "help.seomonitor.com",
+                "title": "Impact of SERP features on clicks: the % Clicks and CTR ...",
+                "description": "The % Clicks metric tells you what percentage of the total clicks for a keyword end up on organic results, and helps you calibrate your expectations on how much\u00a0...",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/5738529-impact-of-serp-features-on-clicks-the-clicks-and-ctr-metrics",
+                "breadcrumb": "https:\/\/help.seomonitor.com"
+            }
+        ]
     },
     {
         "keyword": "serp feature tracker",
@@ -1007,7 +1811,7 @@
         "location_code": 2642,
         "language_code": "en",
         "check_url": "https:\/\/www.google.ro\/search?q=serp%20feature%20tracker&num=100&hl=en&gl=RO&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCcN2iZUm_7FAEZSxBKiST--E",
-        "datetime": "2025-01-25 10:59:03 +00:00",
+        "datetime": "2025-01-25 15:57:38 +00:00",
         "spell": null,
         "refinement_chips": {
             "type": "refinement_chips",
@@ -1016,21 +1820,21 @@
                 {
                     "type": "refinement_chips_element",
                     "title": "Online",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Serp+feature+tracker+online&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRPQmvN_z-6oAwqQZwtKwMXbB25ccEfdsUd3RUMWwM5SNqYgvqyYtBiQqOtvmuHlNyxRLo69d7Kaf7JKj1ehfrl6dkQm0B256HMcUjtZ6si2NsAoq8QuKyZbCY88sZR9kBrCVzRtfY7h1VECZR4xvgDNdKzdwcSBU929l8YTtPExbgt7Ut&sa=X&ved=2ahUKEwiHq4nZ25CLAxW2RzABHXVADUoQxKsJegQIExAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Serp+feature+tracker+online&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRPQmvN_z-6oAwqQZwtKwMXbB25ccEfdsUd3RUMWwM5SNqYgvqyYtBiQqOtvmuHlNyxRLo69d7Kaf7JKj1ehfrl6dkQm0B256HMcUjtZ6si2NsAoq8QuKyZbCY88sZR9kBrCVzRtfY7h1VECZR4xvgDNdKzdwcSBU929l8YTtPExbgt7Ut&sa=X&ved=2ahUKEwjY5Ky3npGLAxWSL0QIHSVSF6EQxKsJegQIExAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Free",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Serp+feature+tracker+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze5-5c9U3CPLU6u0G45gA9Ozkc17y7AotGNIiabiYDnYxVcrs1g69nGxqYt5XCDhnP5pcLVBmmJe3faWB0HZK9Sn3FSEB1aUk6tn42xHXCzBGMayPZhf2x5ANjw1o_thTzYPDt64&sa=X&ved=2ahUKEwiHq4nZ25CLAxW2RzABHXVADUoQxKsJegQIEhAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Serp+feature+tracker+free&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR1QJVQZeCwVNc6nHyWFtze5-5c9U3CPLU6u0G45gA9Ozkc17y7AotGNIiabiYDnYxVcrs1g69nGxqYt5XCDhnP5pcLVBmmJe3faWB0HZK9Sn3FSEB1aUk6tn42xHXCzBGMayPZhf2x5ANjw1o_thTzYPDt64&sa=X&ved=2ahUKEwjY5Ky3npGLAxWSL0QIHSVSF6EQxKsJegQIEhAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 },
                 {
                     "type": "refinement_chips_element",
                     "title": "Google",
-                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=f27a76d716e86b8b&hl=en&gl=RO&glp=1&q=Serp+feature+tracker+google&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRPQmvN_z-6oAwqQZwtKwMXbB25ccEfdsUd3RUMWwM5SOgb1UdeG1IaW_aOAM5NALrNdfFFbsfPP0-PlFuzL4i_JYx7gzKJNjH6HZvraRSWJAkcBnKYx5pHoA5AIvjVSXJ0mPGT42j35TyStqn4Q23RBMOZEcQ9Kn7YeSjxxJHw0ulqLVV&sa=X&ved=2ahUKEwiHq4nZ25CLAxW2RzABHXVADUoQxKsJegQIChAB&ictx=0",
+                    "url": "https:\/\/www.google.ro\/search?num=100&sca_esv=1e2e6d23dafb47e1&hl=en&gl=RO&glp=1&q=Serp+feature+tracker+google&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRPQmvN_z-6oAwqQZwtKwMXbB25ccEfdsUd3RUMWwM5SOgb1UdeG1IaW_aOAM5NALrNdfFFbsfPP0-PlFuzL4i_JYx7gzKJNjH6HZvraRSWJAkcBnKYx5pHoA5AIvjVSXJ0mPGT42j35TyStqn4Q23RBMOZEcQ9Kn7YeSjxxJHw0ulqLVV&sa=X&ved=2ahUKEwjY5Ky3npGLAxWSL0QIHSVSF6EQxKsJegQIERAB&ictx=0",
                     "domain": "www.google.ro",
                     "options": null
                 }
@@ -1042,8 +1846,29 @@
             "people_also_search",
             "related_searches"
         ],
-        "se_results_count": 448000,
-        "items_count": 0,
-        "items": null
+        "se_results_count": 446000,
+        "items_count": 2,
+        "items": [
+            {
+                "type": "organic",
+                "rank_group": 7,
+                "rank_absolute": 8,
+                "domain": "help.seomonitor.com",
+                "title": "SERP feature detection & tracking | SEOmonitor Help Center",
+                "description": "How we track SERP features (and your presence in them) on a daily basis, and where you can access the associated data within our platform.",
+                "url": "https:\/\/help.seomonitor.com\/en\/articles\/5612207-serp-feature-detection-tracking",
+                "breadcrumb": "https:\/\/help.seomonitor.com \u203a articles \u203a 5612207-serp-f..."
+            },
+            {
+                "type": "organic",
+                "rank_group": 19,
+                "rank_absolute": 20,
+                "domain": "www.seomonitor.com",
+                "title": "SEOmonitor's Rank Tracker: Precision Tracking for Agencies",
+                "description": "Track rankings with SEOmonitor's accurate and reliable Rank Tracker, designed to help agencies optimize strategies and improve client results.",
+                "url": "https:\/\/www.seomonitor.com\/rank-tracker\/",
+                "breadcrumb": "https:\/\/www.seomonitor.com \u203a rank-tracker"
+            }
+        ]
     }
 ]
