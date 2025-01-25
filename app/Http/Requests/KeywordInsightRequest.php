@@ -4,7 +4,9 @@ declare(strict_types=1);
 
 namespace App\Http\Requests;
 
+use App\Models\KeywordInsight;
 use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Validation\Rule;
 
 class KeywordInsightRequest extends FormRequest
 {
@@ -18,47 +20,25 @@ class KeywordInsightRequest extends FormRequest
         $this->hardcodeTestValues();
 
         return [
-            'keywords' => 'required|array',
-            'keywords.*' => 'required|string',
-            // @TODO add individual keyword validation rules
+            'hash' => [
+                'required',
+                Rule::exists('keyword_insights', 'hash'),
+            ],
+            'refresh' => [
+                'nullable',
+                'boolean',
+            ]
         ];
     }
 
     /**
-     * For testing purposes - allows GET request with "default" keywords
+     * For testing purposes - allows GET request with latest "hash" from DB
      * @return void
      */
     private function hardcodeTestValues(): void
     {
         if (request()->isMethod('GET')) {
-            $this->query->set('keywords', [
-                'topic seomonitor',
-                'seo keyword monitor',
-                'seo monitor login',
-                'seo monitor forecast',
-                'seo forecasting tool',
-                'rank monitor',
-                'seo rankings monitor',
-                'serp features monitor',
-                'seo forecasting',
-                'agency rank tracking',
-                'forecasting seo',
-                'monitor keywords',
-                'seo monitoring software',
-                'rank tracker features',
-                'daily rank tracker',
-                'serp visibility',
-                'seo monitoring tool',
-                'seo visibility search metrics',
-                'serp chrome extension',
-                'track serp features',
-                'what is rank tracking',
-                'keyword forecasting',
-                'rank tracker keyword difficulty',
-                'seo visibility score',
-                'serp metrics',
-                'serp feature tracker',
-            ]);
+            $this->query->set('hash', KeywordInsight::query()->latest()->first()->hash);
         }
     }
 }
