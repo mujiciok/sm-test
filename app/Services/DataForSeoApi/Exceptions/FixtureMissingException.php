@@ -6,6 +6,7 @@ namespace App\Services\DataForSeoApi\Exceptions;
 
 use Exception;
 
-class ValidationException extends Exception
+class FixtureMissingException extends Exception
 {
+    protected $message = 'Fixture file not found';
 }

@@ -9,17 +9,18 @@ use App\Services\DataForSeoApi\Rules\KeywordsValidator;
 class SearchVolumeLive extends DataForSeoApiEndpoint
 {
     protected string $url = '/v3/keywords_data/google_ads/search_volume/live';
-    protected string $fixturePath = 'search_volume.json';
+    protected string $responsePath = 'tasks.*.result';
     protected array $validators = [
         KeywordsValidator::class,
     ];
+    protected string $fixturePath = 'data_for_seo_fixtures/search_volume.json';
 
-    public function request(): array
+    /**
+     * @inheritDoc
+     */
+    protected function processRequest(): array
     {
-        $this->validate();
-        $postData[] = [
-            'keywords' => $this->data['keywords'],
-        ];
+        $postData = [['keywords' => $this->data['keywords'],]];
 
         return $this->getRequestData($postData);
     }

@@ -16,5 +16,12 @@ class KeywordsValidator extends Validator
         if (empty($data['keywords'])) {
             $this->fail('Keywords are required.');
         }
+
+        /**
+         * @TODO add validation rules
+         * The maximum number of keywords you can specify: 1000
+         * The maximum number of characters for each keyword: 80
+         * The maximum number of words for each keyword phrase: 10
+         */
     }
 }

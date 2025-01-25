@@ -6,6 +6,7 @@ namespace App\Services\DataForSeoApi\Exceptions;
 
 use Exception;
 
-class ValidationException extends Exception
+class FailedApiResponseException extends Exception
 {
+    protected $message = 'API response failed';
 }
