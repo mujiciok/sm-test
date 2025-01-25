@@ -11,6 +11,8 @@ use App\Services\DataForSeoApi\Rules\TargetValidator;
 
 class GoogleSerpLive extends DataForSeoApiEndpoint
 {
+    private const DEFAULT_TARGET = 'seomonitor.com';
+
     protected string $url = '/v3/serp/google/organic/live/regular';
     protected string $responsePath = 'tasks.*.result.*';
     protected array $validators = [
@@ -42,7 +44,7 @@ class GoogleSerpLive extends DataForSeoApiEndpoint
                 'location_code' => CountryCodeEnum::ROMANIA->value,
                 'language_code' => LanguageCodeEnum::EN->value,
                 'keyword' => $keyword,
-                'target' => $this->data['target'],
+                'target' => $this->data['target'] ?? self::DEFAULT_TARGET,
             ]];
             $data[] = $this->getRequestData($postData);
         }

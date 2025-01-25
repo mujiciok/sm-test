@@ -151,8 +151,8 @@ abstract class DataForSeoApiEndpoint implements DataForSeoApiEndpointInterface
     private function isSuccessStatusCode(int $statusCode): bool
     {
         return in_array($statusCode, [
-            ResponseStatusCodeEnum::OK,
-            ResponseStatusCodeEnum::TASK_CREATED,
+            ResponseStatusCodeEnum::OK->value,
+            ResponseStatusCodeEnum::TASK_CREATED->value,
         ]);
     }
 
